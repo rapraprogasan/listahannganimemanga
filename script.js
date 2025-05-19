@@ -621,7 +621,7 @@ const itemsData = [
     },
     //new update 19/05/2025 9:50
     {
-    id: ,
+    id: 68,
         title: "Aharen-san wa Hakarenai",
         image: "image/Aharen-san wa Hakarenai.jpg",
         category: "planned",
