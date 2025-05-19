@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Listahan ng Anime & Manga Ni Markee</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="picture/icon.png">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div class="loading-screen" id="loadingScreen">
+        <div class="loading-content">
+            <img src="image/loading.gif" alt="Meron Loading Image" class="loading-image">
+            <div class="loading-spinner"></div>
+            <p>Loading your Listahan...</p>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container" id="mainContent">
+        <header>
+            <h1>My Listahan ng Anime & Manga Ni Markee</h1>
+            <p>Never forget your favorite titles again</p>
+        </header>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search anime or manga...">
+            <i class="fas fa-search search-icon"></i>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-button active" data-category="all">All</button>
+            <button class="tab-button" data-category="watching">Currently Watching</button>
+            <button class="tab-button" data-category="reading">Currently Reading</button>
+            <button class="tab-button" data-category="completed">Completed</button>
+            <button class="tab-button" data-category="dropped">Dropped</button>
+            <button class="tab-button" data-category="planned">Plan to Watch & Reading</button>
+            <button class="tab-button" data-category="manga">Manga</button>
+        </div>
+
+        <div class="content-grid" id="contentGrid">
+            <!-- Items will be loaded here via JavaScript -->
+        </div>
+
+        <!-- Video Modal -->
+        <div class="modal" id="videoModal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <div class="video-container">
+                    <iframe id="videoFrame" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="video-notes" id="videoNotes"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>About This Website</h3>
+                <p>This website was created to help me remember anime and manga titles that I've watched or plan to watch. As an avid fan, I often forget titles, so this serves as my personal memory aid.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Developer</h3>
+                <p>Created with ❤️ by <strong>Mark Joseph Tabugon Rogasan</strong></p>
+                <p>All anime and manga data is for personal use only.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#" class="tab-link" data-category="all">All Items</a></li>
+                    <li><a href="#" class="tab-link" data-category="watching">Currently Watching</a></li>
+                    <li><a href="#" class="tab-link" data-category="manga">Manga List</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Anime & Manga Memory List. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
