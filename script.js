@@ -619,6 +619,17 @@ const itemsData = [
         videoId: "",
         mangaLink: "https://mangafire.to/manga/the-beginning-after-the-endd.6v55p"
     },
+    //new update 19/05/2025 9:50
+    {
+    id: ,
+        title: "Aharen-san wa Hakarenai",
+        image: "image/Aharen-san wa Hakarenai.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
+        videoId: "F7bGTibgcjM",
+        mangaLink: ""
+    },
 
     
 ];
