@@ -619,25 +619,6 @@ const itemsData = [
         videoId: "",
         mangaLink: "https://mangafire.to/manga/the-beginning-after-the-endd.6v55p"
     },
-    //new update 19/05/2025 9:50
-    {
-    id: 68,
-        title: "Aharen-san wa Hakarenai",
-        image: "image/Aharen-san wa Hakarenai.jpg",
-        category: "planned",
-        type: "anime",
-        notes:"A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
-        videoId: "F7bGTibgcjM",
-    },
-    {
-    id: 69,
-        title: "Aharen-san wa Hakarenai Season 2",
-        image: "image/Aharen-san wa Hakarenai Season 2.jpg",
-        category: "planned",
-        type: "anime",
-        notes:"Aharen-san wa Hakarenai Season 2 continues the story of Reina Aharen, a quiet and socially awkward high school girl, and her burgeoning relationship with Raido, who is trying to overcome his intimidating image. ",
-        videoId: "5-nbw77_Bss",
-    },
 
     
 ];
