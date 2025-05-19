@@ -628,7 +628,15 @@ const itemsData = [
         type: "anime",
         notes:"A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
         videoId: "F7bGTibgcjM",
-        mangaLink: ""
+    },
+    {
+    id: ,
+        title: "Aharen-san wa Hakarenai Season 2",
+        image: "image/Aharen-san wa Hakarenai Season 2.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"Aharen-san wa Hakarenai Season 2 continues the story of Reina Aharen, a quiet and socially awkward high school girl, and her burgeoning relationship with Raido, who is trying to overcome his intimidating image. ",
+        videoId: "5-nbw77_Bss",
     },
 
     
