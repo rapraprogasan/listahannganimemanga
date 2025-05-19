@@ -630,7 +630,7 @@ const itemsData = [
         videoId: "F7bGTibgcjM",
     },
     {
-    id: ,
+    id: 69,
         title: "Aharen-san wa Hakarenai Season 2",
         image: "image/Aharen-san wa Hakarenai Season 2.jpg",
         category: "planned",
