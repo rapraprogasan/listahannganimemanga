@@ -327,16 +327,32 @@ header p {
     background-color: rgba(0, 0, 0, 0.8);
     z-index: 1000;
     overflow: auto;
+    /* Add these new properties */
+    align-items: center;
+    justify-content: center;
 }
 
 .modal-content {
     background-color: white;
-    margin: 5% auto;
     padding: 20px;
     border-radius: 10px;
     max-width: 800px;
     width: 90%;
     position: relative;
+    /* Remove margin and add these instead */
+    margin: 20px;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+.modal {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.modal.show {
+    opacity: 1;
+    visibility: visible;
 }
 
 .close-modal {
