@@ -756,18 +756,26 @@ function setupEventListeners() {
     });
 
     // Close modal
-    closeModal.addEventListener('click', () => {
-        videoModal.style.display = 'none';
-        videoFrame.src = '';
+    closeModal.addEventListener('click', (e) => {
+        e.stopPropagation(); // Prevent event bubbling
+        closeVideoModal();
     });
 
     // Close modal when clicking outside
-    window.addEventListener('click', (e) => {
+    videoModal.addEventListener('click', (e) => {
         if (e.target === videoModal) {
-            videoModal.style.display = 'none';
-            videoFrame.src = '';
+            closeVideoModal();
         }
     });
+}
+
+// Function to close video modal
+function closeVideoModal() {
+    videoModal.classList.remove('show');
+    setTimeout(() => {
+        videoModal.style.display = 'none';
+        videoFrame.src = '';
+    }, 300);
 }
 
 // Render items to the grid
@@ -834,7 +842,7 @@ function renderItems(items) {
         `;
         
         // Add click event to image for video modal
-                const image = itemElement.querySelector('.item-image');
+        const image = itemElement.querySelector('.item-image');
         const playButton = itemElement.querySelector('.play-button');
         
         if (item.type === 'manga' && item.mangaLink) {
@@ -851,7 +859,16 @@ function renderItems(items) {
             const openModal = () => {
                 videoFrame.src = `https://www.youtube.com/embed/${item.videoId}?autoplay=1`;
                 videoNotes.textContent = item.notes;
-                videoModal.style.display = 'block';
+                videoModal.style.display = 'flex';
+                videoModal.classList.add('show');
+                
+                // Smooth scroll to center of modal
+                setTimeout(() => {
+                    videoModal.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'center'
+                    });
+                }, 10);
             };
             
             image.addEventListener('click', openModal);
