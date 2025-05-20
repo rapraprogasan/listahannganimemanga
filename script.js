@@ -656,6 +656,16 @@ const itemsData = [
         notes:"[Planned Reading] Na Honjaman Level Up Solo Leveling I Level Up Alone Only I Level Up",
         mangaLink: "https://mangafire.to/read/solo-levelingg.52x0/en/chapter-111"
     },
+    {
+    id: 72,
+        title: "Solo Leveling: Ragnarok",
+        image: "image/Solo Leveling Ragnarok.jpg",
+        category: "planned",
+        type: "manga",
+        notes:"[Planned Reading] Na Honjaman Level Up: Ragnarok Solo Leveling: Ragnarok",
+        mangaLink: "https://mangafire.to/manga/na-honjaman-level-up-ragnarokk.ppx06"
+    },
+    
 ];
 
 // DOM Elements
