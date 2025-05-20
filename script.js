@@ -565,7 +565,7 @@ const itemsData = [
         image: "image/Nano Machine.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] The story of Cheon Yeo-Woon's journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
+        notes:"[Planned Reading]The story of Cheon Yeo-Woon's journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/nano-machinee.m2y8v"
     },
@@ -618,6 +618,34 @@ const itemsData = [
         notes:"[Currently reading Chapter-218] (The Beginning After the End) tells the story of King Grey, who is reincarnated as Arthur Leywin after a mysterious death. Arthur, possessing memories of his past life, is born into a world of magic and warriors, eventually learning to control mana and grow into a powerful being. The series follows his journey as he navigates this new world, utilizing his knowledge and skills to overcome challenges and make a difference. ",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/the-beginning-after-the-endd.6v55p"
+    },
+    //update 20/05/2025
+     {
+    id: 68,
+        title: "Aharen-san wa Hakarenai",
+        image: "image/Aharen-san wa Hakarenai.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
+        videoId: "F7bGTibgcjM"
+    },
+     {
+    id: 10,
+        title: "Aharen-san wa Hakarenai Season 2",
+        image: "image/Aharen-san wa Hakarenai Season 2.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"Aharen-san wa Hakarenai Season 2 follows the second year of Reina Aharen and Raido's high school journey as they navigate a new semester and a new transfer student, Riku Tamanaha.",
+        videoId: "5-nbw77_Bss"
+    },
+     {
+    id: 10,
+        title: "The Regressed Youngest Son of the Duke Is an Assassin",
+        image: "image/The Regressed Youngest Son of the Duke Is an Assassin.jpg",
+        category: "planned",
+        type: "manga",
+        notes:"[Planned Reading] Cyan Vert, the youngest son of the prestigious Vert family, was born into an environment of high expectations and fierce competition. ",
+        mangaLink: "https://mangafire.to/manga/the-reborn-young-lord-is-an-assassinn.oxpw8"
     },
 
     
