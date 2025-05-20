@@ -630,7 +630,7 @@ const itemsData = [
         videoId: "F7bGTibgcjM"
     },
      {
-    id: 10,
+    id: 69,
         title: "Aharen-san wa Hakarenai Season 2",
         image: "image/Aharen-san wa Hakarenai Season 2.jpg",
         category: "planned",
@@ -639,7 +639,7 @@ const itemsData = [
         videoId: "5-nbw77_Bss"
     },
      {
-    id: 10,
+    id: 70,
         title: "The Regressed Youngest Son of the Duke Is an Assassin",
         image: "image/The Regressed Youngest Son of the Duke Is an Assassin.jpg",
         category: "planned",
@@ -647,8 +647,15 @@ const itemsData = [
         notes:"[Planned Reading] Cyan Vert, the youngest son of the prestigious Vert family, was born into an environment of high expectations and fierce competition. ",
         mangaLink: "https://mangafire.to/manga/the-reborn-young-lord-is-an-assassinn.oxpw8"
     },
-
-    
+    {
+    id: 71,
+        title: "Solo Leveling",
+        image: "image/Solo Leveling.jpg",
+        category: "planned",
+        type: "manga",
+        notes:"[Planned Reading] Na Honjaman Level Up Solo Leveling I Level Up Alone Only I Level Up",
+        mangaLink: "https://mangafire.to/read/solo-levelingg.52x0/en/chapter-111"
+    },
 ];
 
 // DOM Elements
