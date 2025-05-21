@@ -78,9 +78,9 @@ const itemsData = [
         id: 9,
         title: "Saekano the Movie: Finale",
         image: "image/Saekano the Movie  Finale.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes:"As Blessing Software races to complete their new game for Winter Comiket, Tomoya faces tough choices between friendship and ambition. With Utaha and Eriri gone, Megumi and new members Iori and Izumi push forward—but creative hurdles and personal conflicts test their resolve. In the end, Tomoya must choose his own path, both in love and game development, bringing his journey to a heartfelt close.",
+        notes:"[Ratings 8.5/10]  As Blessing Software races to complete their new game for Winter Comiket, Tomoya faces tough choices between friendship and ambition. With Utaha and Eriri gone, Megumi and new members Iori and Izumi push forward—but creative hurdles and personal conflicts test their resolve. In the end, Tomoya must choose his own path, both in love and game development, bringing his journey to a heartfelt close.",
         videoId: "9LDEKv0l4j0"
     },
     {
