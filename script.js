@@ -69,9 +69,9 @@ const itemsData = [
         id: 8,
         title: "Saekano How to Raise a Boring Girlfriend .flat",
         image: "image/Saekano How to Raise a Boring Girlfriend .flat.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes: "Tomoya Aki and his team at Blessing Software push to finish their visual novel, but struggle with Megumi's bland personality and the pressures of game development. As deadlines loom and creative clashes arise, they learn tough lessons about teamwork, industry demands, and the gap between passion and professionalism.",
+        notes: "[Ratings 8/10] Tomoya Aki and his team at Blessing Software push to finish their visual novel, but struggle with Megumi's bland personality and the pressures of game development. As deadlines loom and creative clashes arise, they learn tough lessons about teamwork, industry demands, and the gap between passion and professionalism.",
         videoId: "gsZb9-SRDDI"
     },
     {
