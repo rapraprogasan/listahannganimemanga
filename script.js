@@ -7,7 +7,7 @@ const itemsData = [
         image: "image/Pseudo Harem.jpg",
         category: "completed",
         type: "anime",
-        notes: "[Rating 10/10] Eiji Kitahama dreams of having a harem, so his drama club junior, Rin Nanakura, uses her acting skills to play different harem girls for him. As they bond, Rin secretly hopes to win Eiji's heart for real. The story mixes comedy and romance as she balances her roles and true feelings.",
+        notes: "[Ratings 10/10] Eiji Kitahama dreams of having a harem, so his drama club junior, Rin Nanakura, uses her acting skills to play different harem girls for him. As they bond, Rin secretly hopes to win Eiji's heart for real. The story mixes comedy and romance as she balances her roles and true feelings.",
         
         videoId: "3-4xv2jKc9U" // Replace with actual YouTube ID
     },
@@ -17,7 +17,7 @@ const itemsData = [
         image: "image/Scum's Wish.jpg",
         category: "completed",
         type: "anime",
-        notes: "[Rating 8/10] Hanabi and Mugi pretend to date to cope with their unrequited love for other people—who are now dating each other. Their fake relationship blurs the line between comfort and heartbreak.",
+        notes: "[Ratings 8/10] Hanabi and Mugi pretend to date to cope with their unrequited love for other people—who are now dating each other. Their fake relationship blurs the line between comfort and heartbreak.",
         videoId: "QqpIWaVThEM"
     },
     {
@@ -26,7 +26,7 @@ const itemsData = [
         image: "image/A Couple of Cuckoos.jpg",
         category: "completed",
         type: "anime",
-        notes: "[Rating 8/10] Nagi and Erika, swapped at birth, refuse their parents' plan to make them marry—but as they spend time together, their feelings get complicated. A mix of romance and family drama unfolds.",
+        notes: "[Ratings 8/10] Nagi and Erika, swapped at birth, refuse their parents' plan to make them marry—but as they spend time together, their feelings get complicated. A mix of romance and family drama unfolds.",
         videoId: "fRtIES1Qb0Y"
     },
     {
@@ -35,7 +35,7 @@ const itemsData = [
         image: "image/Love Is Indivisible by Twins.jpg",
         category: "completed",
         type: "anime",
-        notes: "[Rating 7/10] Jun Shirasaki and the Jinguuji sisters are childhood friends and neighbors. When Jun's first girlfriend, the older sister Rumi, breaks up with him, she says something that complicates the three people's relationship, their first loves, and their romance—?",
+        notes: "[Ratings 7/10] Jun Shirasaki and the Jinguuji sisters are childhood friends and neighbors. When Jun's first girlfriend, the older sister Rumi, breaks up with him, she says something that complicates the three people's relationship, their first loves, and their romance—?",
         videoId: "nXSRWW9I3xk"
     },
     {
@@ -44,7 +44,7 @@ const itemsData = [
         image: "image/Medaka Kuroiwa is Impervious to My Charms.jpg",
         category: "completed",
         type: "anime",
-        notes: "[Rating 8.5/10] Mona, a girl used to being adored, is obsessed with winning over Medaka—the only guy immune to her charms. But his indifference comes from his dream of becoming a monk. As Mona relentlessly pursues him, she might end up falling for him for real. A comedic battle of stubborn hearts.",
+        notes: "[Ratings 8.5/10] Mona, a girl used to being adored, is obsessed with winning over Medaka—the only guy immune to her charms. But his indifference comes from his dream of becoming a monk. As Mona relentlessly pursues him, she might end up falling for him for real. A comedic battle of stubborn hearts.",
         videoId: "pl8FYawHdh0"
     },
     {
@@ -53,16 +53,16 @@ const itemsData = [
         image: "image/Too Many Losing Heroines!.jpg",
         category: "completed",
         type: "anime",
-        notes: "[Rating 9.5/10] Introverted Kazuhiko Nukumizu prefers staying unnoticed—until he witnesses popular girl Anna Yanami get rejected. Dragged into her love drama, he gets tangled in the romantic woes of two more girls: energetic Lemon and shy Chika. Now, this {background character] is stuck as the unlikely confidant for three hopeless heroines. A comedy about love, losers, and unexpected friendships.",
+        notes: "[Ratings 9.5/10] Introverted Kazuhiko Nukumizu prefers staying unnoticed—until he witnesses popular girl Anna Yanami get rejected. Dragged into her love drama, he gets tangled in the romantic woes of two more girls: energetic Lemon and shy Chika. Now, this {background character] is stuck as the unlikely confidant for three hopeless heroines. A comedy about love, losers, and unexpected friendships.",
         videoId: "uytJ6_KTCZI"
     },
     {
         id: 7,
         title: "Saekano How to Raise a Boring Girlfriend",
         image: "image/Saekano How to Raise a Boring Girlfriend.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes: "Otaku Tomoya Aki dreams of creating an emotional visual novel. He recruits his talented childhood friend Eriri (artist) and genius writer Utaha, using the kind-hearted Megumi as their muse. As they develop the game, their own personal dramas and unspoken feelings begin to mirror the story they're trying to tell—blurring the lines between fiction and reality.",
+        notes: "[Ratings 8.5/10] Otaku Tomoya Aki dreams of creating an emotional visual novel. He recruits his talented childhood friend Eriri (artist) and genius writer Utaha, using the kind-hearted Megumi as their muse. As they develop the game, their own personal dramas and unspoken feelings begin to mirror the story they're trying to tell—blurring the lines between fiction and reality.",
         videoId: "Hv3oF7Ky8NI"
     },
     {
