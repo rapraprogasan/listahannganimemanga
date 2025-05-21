@@ -665,6 +665,15 @@ const itemsData = [
         notes:"[Planned Reading] Na Honjaman Level Up: Ragnarok Solo Leveling: Ragnarok",
         mangaLink: "https://mangafire.to/manga/na-honjaman-level-up-ragnarokk.ppx06"
     },
+    {
+    id: 73,
+        title: "Please Put Them On, Takamine-san",
+        image: "image/Please Put Them On, Takamine-san.jpg",
+        category: "watching",
+        type: "anime",
+        notes:"Takane Takamine is great at everything she does, and her magnetic personality makes her the envy of everyone. She gets good grades, excels at sports, and even manages to become student council president during her first year of high school. But Takamine has a secret—she possesses an ability called Eternal Virgin Road, allowing her to redo past actions and achieve a different result.",
+        videoId: "XQABbjkXMB4"
+    },
     
 ];
 
