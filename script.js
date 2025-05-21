@@ -151,7 +151,7 @@ const itemsData = [
         image: "image/Shikimori's Not Just a Cutie.jpg",
         category: "completed",
         type: "anime",
-        notes:"[Rating 9/10] Despite his streak of absurdly bad luck, Yuu Izumi cherishes his relationship with his seemingly perfect girlfriend, Shikimori—who transforms into a fiercely cool protector whenever danger strikes. As their love blossoms, Izumi learns that true happiness isn’t about avoiding misfortune, but having someone who makes even chaos feel magical.",
+        notes:"[Ratings 9/10] Despite his streak of absurdly bad luck, Yuu Izumi cherishes his relationship with his seemingly perfect girlfriend, Shikimori—who transforms into a fiercely cool protector whenever danger strikes. As their love blossoms, Izumi learns that true happiness isn’t about avoiding misfortune, but having someone who makes even chaos feel magical.",
         videoId: "IRxdEcemmsE"
     },
     {
@@ -304,7 +304,7 @@ const itemsData = [
         image: "image/Our Dating Story The Experienced You and The Inexperienced Me.jpg",
         category: "completed",
         type: "anime",
-        notes:"[Rating 8.5] Shy Ryuuto expects humiliation after a fake confession to popular Runa—but she shocks him by saying yes! Now, navigating a secret relationship, past crushes, and vicious rumors, this unlikely couple must fight for their fragile love before the world tears them apart.",
+        notes:"[Ratings 8.5] Shy Ryuuto expects humiliation after a fake confession to popular Runa—but she shocks him by saying yes! Now, navigating a secret relationship, past crushes, and vicious rumors, this unlikely couple must fight for their fragile love before the world tears them apart.",
         videoId: "5pzAENiLIZI"
     },
     {
@@ -313,7 +313,7 @@ const itemsData = [
         image: "image/A Sign of Affection.jpg",
         category: "completed",
         type: "anime",
-        notes:"[Rating 9/10] Hearing-impaired Yuki’s quiet world expands when globetrotter Itsuomi enters her life—not with pity, but genuine curiosity. As their connection deepens, she discovers love doesn’t need sound, just someone willing to listen in their own way.",
+        notes:"[Ratings 9/10] Hearing-impaired Yuki’s quiet world expands when globetrotter Itsuomi enters her life—not with pity, but genuine curiosity. As their connection deepens, she discovers love doesn’t need sound, just someone willing to listen in their own way.",
         videoId: "XDGIzU0D_Pg"
     },
     {
@@ -331,7 +331,7 @@ const itemsData = [
         image: "image/Days with My Stepsister.jpg",
         category: "completed",
         type: "anime",
-        notes:"[Rating 7/10] Yuuta and his new stepsister Saki—the school’s top beauty—agree to keep a polite distance. But as they navigate shared routines and quiet moments, their cautious bond slowly blurs into something deeper, testing the line between family and forbidden love.",
+        notes:"[Ratings 7/10] Yuuta and his new stepsister Saki—the school’s top beauty—agree to keep a polite distance. But as they navigate shared routines and quiet moments, their cautious bond slowly blurs into something deeper, testing the line between family and forbidden love.",
         videoId: "RRwt3t98bUA"
     },
     {
@@ -475,7 +475,7 @@ const itemsData = [
         image: "image/Alya Sometimes Hides Her Feelings in Russian.jpg",
         category: "completed",
         type: "anime",
-        notes:"[Rating 9.5/10] Perfectionist student council star Alya vents her crush on slacker Masachika in Russian—unaware he understands every word. As their playful dynamic deepens, secrets from his past and her icy facade melt into something neither expected: real love.",
+        notes:"[Ratings 9.5/10] Perfectionist student council star Alya vents her crush on slacker Masachika in Russian—unaware he understands every word. As their playful dynamic deepens, secrets from his past and her icy facade melt into something neither expected: real love.",
         videoId: "pBX6TtOlYow"
     },
     //Manga section 1
