@@ -685,7 +685,16 @@ const itemsData = [
         notes:"[Ratings 9/10] The year is 2027, and the city of Kyoto has undergone tremendous technological advancement.",
         videoId: "shoWFRnNoWw"
     },
-    
+//update 23/05/2025
+    {
+    id: 74,
+        title: "The Dreaming Boy is a Realist",
+        image: "image/The Dreaming Boy is a Realist.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa. His usual day revolves around shadowing her and confessing his undying love at every turn. ",
+        videoId: "sUJ9hUhViBo"
+    },
 ];
 
 // DOM Elements
