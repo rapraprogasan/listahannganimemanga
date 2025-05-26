@@ -695,6 +695,17 @@ const itemsData = [
         notes:"Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa. His usual day revolves around shadowing her and confessing his undying love at every turn. ",
         videoId: "sUJ9hUhViBo"
     },
+//update 26/05/2025
+{
+    id: 75,
+        title: "The Most Heretical Last Boss Queen: From Villainess to Savior",
+        image: "image/The Most Heretical Last Boss Queen: From Villainess to Savior.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light. While on her way to replay it, she tragically died, reincarnating as the game's final boss and firstborn princess of Freesia.",
+        videoId: "KdmxkRQshic"
+    },
+    
 ];
 
 // DOM Elements
