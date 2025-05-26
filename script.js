@@ -699,7 +699,7 @@ const itemsData = [
 {
     id: 75,
         title: "The Most Heretical Last Boss Queen: From Villainess to Savior",
-        image: "image/The Most Heretical Last Boss Queen: From Villainess to Savior.jpg",
+        image: "image/The Most Heretical Last Boss Queen From Villainess to Savior.jpg",
         category: "planned",
         type: "anime",
         notes:"Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light. While on her way to replay it, she tragically died, reincarnating as the game's final boss and firstborn princess of Freesia.",
