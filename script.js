@@ -89,7 +89,7 @@ const itemsData = [
         image: "image/Shangri-La Frontier.jpg",
         category: "watching",
         type: "anime",
-        notes:"Rakurou Sunraku Hizutome, a high schooler obsessed with glitchy, broken games, tries Shangri-La Frontier—a polished VR masterpiece—as a change of pace. But his unorthodox playstyle (starting in just boxers and a bird mask) turns him into an unexpected legend. Using skills honed from trash games, he dominates challenges even pros fear, shaking the games meta.",
+        notes:"[10] Rakurou Sunraku Hizutome, a high schooler obsessed with glitchy, broken games, tries Shangri-La Frontier—a polished VR masterpiece—as a change of pace. But his unorthodox playstyle (starting in just boxers and a bird mask) turns him into an unexpected legend. Using skills honed from trash games, he dominates challenges even pros fear, shaking the games meta.",
         videoId: "AFNZzbQ8tVI"
     },
     {
@@ -98,7 +98,7 @@ const itemsData = [
         image: "image/Shoshimin How to Become Ordinary.jpg",
         category: "watching",
         type: "anime",
-        notes:"Ex-detective Jougorou Kobato and shy Yuki Osanai vow to live ordinary high school lives—but Jougorou’s nosy instincts keep pulling them into mysteries. From trivial school oddities to real dangers, their quest for normalcy keeps backfiring in this mix of comedy, slice-of-life, and light suspense.",
+        notes:"[11] Ex-detective Jougorou Kobato and shy Yuki Osanai vow to live ordinary high school lives—but Jougorou’s nosy instincts keep pulling them into mysteries. From trivial school oddities to real dangers, their quest for normalcy keeps backfiring in this mix of comedy, slice-of-life, and light suspense.",
         videoId: "5GTiAYZ19D4"
     },
      {
@@ -107,7 +107,7 @@ const itemsData = [
         image: "image/Shoshimin How to Become Ordinary Season 2.jpg",
         category: "watching",
         type: "anime",
-        notes:"After parting ways, Kobato and Osanai try normal lives—until an arson case pulls them back into danger and unresolved feelings. Can they stay ordinary when chaos calls?",
+        notes:"[12] After parting ways, Kobato and Osanai try normal lives—until an arson case pulls them back into danger and unresolved feelings. Can they stay ordinary when chaos calls?",
         videoId: "kgTAUP11ko0"
     },
      {
@@ -116,7 +116,7 @@ const itemsData = [
         image: "image/The Dangers in My Heart.jpg",
         category: "watching",
         type: "anime",
-        notes:"Middle schooler Kyoutarou Ichikawa fantasizes about killing his classmate Anna Yamada—until he discovers her clumsy, airheaded side during library visits. His murderous urges twist into an awkward mix of protectiveness and budding affection. Could this twisted crush become something real?",
+        notes:"[13] Middle schooler Kyoutarou Ichikawa fantasizes about killing his classmate Anna Yamada—until he discovers her clumsy, airheaded side during library visits. His murderous urges twist into an awkward mix of protectiveness and budding affection. Could this twisted crush become something real?",
         videoId: "1x6BnBAOwaY"
     },
      {
@@ -125,7 +125,7 @@ const itemsData = [
         image: "image/The Dangers in My Heart  Season 2.jpg",
         category: "watching",
         type: "anime",
-        notes:"Kyoutarou and Anna return from winter break with a deeper connection—she pursues modeling dreams while he wrestles with his growing feelings. As their bond blurs the line between friendship and romance, they must choose: stay as they are, or take the leap into love?",
+        notes:"[14] Kyoutarou and Anna return from winter break with a deeper connection—she pursues modeling dreams while he wrestles with his growing feelings. As their bond blurs the line between friendship and romance, they must choose: stay as they are, or take the leap into love?",
         videoId: "DAbLNzr4cC8"
     },
      {
@@ -134,7 +134,7 @@ const itemsData = [
         image: "image/The Dangers in My Heart Twi-Yaba.jpg",
         category: "planned",
         type: "anime",
-        notes:"OVA, Side stories of Boku no Kokoro no Yabai Yatsu, based on a series of shorts that were posted on X (formerly Twitter).",
+        notes:"[15] OVA, Side stories of Boku no Kokoro no Yabai Yatsu, based on a series of shorts that were posted on X (formerly Twitter).",
     },
     {
     id: 16,
@@ -142,7 +142,7 @@ const itemsData = [
         image: "image/The Foolish Angel Dances with the Devil.jpg",
         category: "watching",
         type: "anime",
-        notes:"With Hell on the brink of defeat, demon soldier Akutsu infiltrates a human high school to recruit a savior—only to target Lily Amane, an angel in disguise. As their rivalry twists into an unlikely bond, Akutsu faces a dire choice: complete his mission or betray Hell for love.",
+        notes:"[16] With Hell on the brink of defeat, demon soldier Akutsu infiltrates a human high school to recruit a savior—only to target Lily Amane, an angel in disguise. As their rivalry twists into an unlikely bond, Akutsu faces a dire choice: complete his mission or betray Hell for love.",
         videoId: "3fBQ9LS1hQY"
     },
     {
@@ -160,7 +160,7 @@ const itemsData = [
         image: "image/Kimi ni Todoke From Me to You.jpg",
         category: "planned",
         type: "anime",
-        notes:"Shy (Sadako) Sawako is feared by classmates until popular Kazehaya befriends her. As she grows confident, she inspires him too—proving kindness breaks all stereotypes.",
+        notes:"[18] Shy (Sadako) Sawako is feared by classmates until popular Kazehaya befriends her. As she grows confident, she inspires him too—proving kindness breaks all stereotypes.",
         videoId: "_gJR6gfRYEQ"
     },
     {
@@ -169,7 +169,7 @@ const itemsData = [
         image: "image/Kimi ni Todoke From Me to You Season 2.jpg",
         category: "planned",
         type: "anime",
-        notes:"Sawako hides her Valentine's chocolates—and feelings—from Kazehaya, creating tension. When a new classmate shows interest in her, their unspoken love faces its first real test.",
+        notes:"[19] Sawako hides her Valentine's chocolates—and feelings—from Kazehaya, creating tension. When a new classmate shows interest in her, their unspoken love faces its first real test.",
         videoId: "9aRQlHYaluU"
     },
     {
@@ -178,7 +178,7 @@ const itemsData = [
         image: "image/Kimi ni Todoke From Me to You Season 3.jpg",
         category: "planned",
         type: "anime",
-        notes:"Sawako and Kazehaya grow closer through summer dates and family meetings, navigating young love’s doubts. Meanwhile, friends Chizuru and Ayane wrestle with their own romantic struggles, as all four learn that love is equal parts joy and vulnerability.",
+        notes:"[20] Sawako and Kazehaya grow closer through summer dates and family meetings, navigating young love’s doubts. Meanwhile, friends Chizuru and Ayane wrestle with their own romantic struggles, as all four learn that love is equal parts joy and vulnerability.",
         videoId: "tJbJI5GE0jg"
     },
     {
@@ -187,7 +187,7 @@ const itemsData = [
         image: "image/Shangri-La Frontier Season 2.jpg",
         category: "planned",
         type: "anime",
-        notes:"Gamer Sunraku dominates Shangri-La Frontier, taking on impossible bosses with his rabbit guide Emul. But when allies Arthur and OiKatzo join with hidden agendas, his quest for power unveils deeper game secrets—and his actions might reshape the entire virtual world.",
+        notes:"[21] Gamer Sunraku dominates Shangri-La Frontier, taking on impossible bosses with his rabbit guide Emul. But when allies Arthur and OiKatzo join with hidden agendas, his quest for power unveils deeper game secrets—and his actions might reshape the entire virtual world.",
         videoId: "OIi6fBHx72U"
     },
     {
@@ -196,7 +196,7 @@ const itemsData = [
         image: "image/The Gorilla God's Go-To Girl.jpg",
         category: "planned",
         type: "anime",
-        notes:"Timid noble girl Sophia gains the ultra-rare (Gorilla God) blessing—making her absurdly strong but desperate to hide it. Thrust into the Royal Knights against her will, she struggles to maintain a peaceful facade while her monstrous power keeps stealing the spotlight.",
+        notes:"[22] Timid noble girl Sophia gains the ultra-rare (Gorilla God) blessing—making her absurdly strong but desperate to hide it. Thrust into the Royal Knights against her will, she struggles to maintain a peaceful facade while her monstrous power keeps stealing the spotlight.",
         videoId: "kTrG6N72ZN4"
     },
     {
@@ -205,7 +205,7 @@ const itemsData = [
         image: "image/Lycoris Recoil.jpg",
         category: "planned",
         type: "anime",
-        notes:"Disciplined assassin Takina gets demoted to LycoReco—a quirky cafe run by carefree prodigy Chisato, who solves crises without killing. As their clashing philosophies collide during missions, Takina must choose: return to her rigid old life, or embrace Chisato’s belief that (saving) means more than eliminating threats.",
+        notes:"[23] Disciplined assassin Takina gets demoted to LycoReco—a quirky cafe run by carefree prodigy Chisato, who solves crises without killing. As their clashing philosophies collide during missions, Takina must choose: return to her rigid old life, or embrace Chisato’s belief that (saving) means more than eliminating threats.",
         videoId: "F5DMjhg3A6c"
     },
     {
@@ -214,7 +214,7 @@ const itemsData = [
         image: "image/Lycoris Recoil Short Movie.jpg",
         category: "planned",
         type: "anime",
-        notes:"Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
+        notes:"[24] Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
         videoId: "kal-KjsPStU"
     },
     {
@@ -223,7 +223,7 @@ const itemsData = [
         image: "image/The Too-Perfect Saint Tossed Aside by My Fiancé and Sold to Another Kingdom.jpg",
         category: "planned",
         type: "anime",
-        notes:"Arrogant saint Philia—so powerful she’s unbearable—gets dumped and sold to a rival kingdom. But when her new life defies all expectations, she must confront her own flaws to rewrite her story.",
+        notes:"[25] Arrogant saint Philia—so powerful she’s unbearable—gets dumped and sold to a rival kingdom. But when her new life defies all expectations, she must confront her own flaws to rewrite her story.",
         videoId: "bVr2-cbGhM0"
     },
     {
@@ -232,7 +232,7 @@ const itemsData = [
         image: "image/Violet Evergarden.jpg",
         category: "planned",
         type: "anime",
-        notes:"Violet Evergarden, a former child soldier with prosthetic arms and a shattered heart, becomes a letter-writer to understand her lost commander’s final words—(I love you.) Each client’s story helps her unravel emotions she never knew, stitching her soul back together one letter at a time.",
+        notes:"[26] Violet Evergarden, a former child soldier with prosthetic arms and a shattered heart, becomes a letter-writer to understand her lost commander’s final words—(I love you.) Each client’s story helps her unravel emotions she never knew, stitching her soul back together one letter at a time.",
         videoId: "g5xWqjFglsk"
     },
     {
@@ -241,7 +241,7 @@ const itemsData = [
         image: "image/Violet Evergarden.jpg",
         category: "planned",
         type: "anime",
-        notes:"Violet struggles to craft a love letter for opera star Irma, who rejects every draft—until a raw, honest confession reveals the truth: the letter was never meant for a lover, but for Irma’s estranged sister.",
+        notes:"[27] Violet struggles to craft a love letter for opera star Irma, who rejects every draft—until a raw, honest confession reveals the truth: the letter was never meant for a lover, but for Irma’s estranged sister.",
         videoId: "T6TqdAkREJk"
     },
     {
@@ -250,7 +250,7 @@ const itemsData = [
         image: "image/Violet Evergarden Eternity and the Auto Memory Doll.jpg",
         category: "planned",
         type: "anime",
-        notes:"Defiant noble girl Isabella, trapped in a gilded cage, clashes with her (perfect) tutor Violet—until she learns Violet’s tragic past mirrors her own loneliness. Together, they craft a letter to Isabella’s lost sister, proving that even the most broken bonds can heal with honesty.",
+        notes:"[28] Defiant noble girl Isabella, trapped in a gilded cage, clashes with her (perfect) tutor Violet—until she learns Violet’s tragic past mirrors her own loneliness. Together, they craft a letter to Isabella’s lost sister, proving that even the most broken bonds can heal with honesty.",
         videoId: "lWRXk7nOhsE"
     },
     {
@@ -259,7 +259,7 @@ const itemsData = [
         image: "image/Violet Evergarden The Movie.jpg",
         category: "planned",
         type: "anime",
-        notes:"In a world moving toward telephones, Violet—now a legendary letter-writer—clings to fading hope that her lost commander Gilbert survives. Her journey to understand (I love you) culminates in a heart-wrenching reunion, where love and sacrifice collide across years of silence.",
+        notes:"[29] In a world moving toward telephones, Violet—now a legendary letter-writer—clings to fading hope that her lost commander Gilbert survives. Her journey to understand (I love you) culminates in a heart-wrenching reunion, where love and sacrifice collide across years of silence.",
         videoId: "NSIzsFOfd8M"
     },
     {
@@ -268,7 +268,7 @@ const itemsData = [
         image: "image/Remake Our Life!.jpg",
         category: "planned",
         type: "anime",
-        notes:"Failed game developer Kyouya wakes up 10 years in the past, ditches business school for art college, and teams up with future legends (including his former boss) to rewrite their destinies. Together, they chase creative dreams—but can he avoid past regrets when success demands more than just second chances?",
+        notes:"[30] Failed game developer Kyouya wakes up 10 years in the past, ditches business school for art college, and teams up with future legends (including his former boss) to rewrite their destinies. Together, they chase creative dreams—but can he avoid past regrets when success demands more than just second chances?",
         videoId: "MSvTN_aQrCU"
     },
     {
@@ -277,7 +277,7 @@ const itemsData = [
         image: "image/I'm Getting Married to a Girl I Hate in My Class.jpg",
         category: "planned",
         type: "anime",
-        notes:"High school enemies Saito and Akane are forced into an arranged marriage by their grandparents. Now stuck living together, their fiery hatred might just melt into something hotter—love.",
+        notes:"[31] High school enemies Saito and Akane are forced into an arranged marriage by their grandparents. Now stuck living together, their fiery hatred might just melt into something hotter—love.",
         videoId: "RgyqkGLsZ2M"
     },
     {
@@ -286,7 +286,7 @@ const itemsData = [
         image: "image/The Detective Is Already Dead.jpg",
         category: "planned",
         type: "anime",
-        notes:"Trouble-magnet Kimihiko gets kidnapped, survives a hijacking, and meets legendary detective Siesta—only for her to die three years later, leaving him heartbroken. But as new mysteries arise, he realizes her legacy (and maybe more) lives on.",
+        notes:"[32] Trouble-magnet Kimihiko gets kidnapped, survives a hijacking, and meets legendary detective Siesta—only for her to die three years later, leaving him heartbroken. But as new mysteries arise, he realizes her legacy (and maybe more) lives on.",
         videoId: "PgA7OQCvO8M"
     },
     {
@@ -295,7 +295,7 @@ const itemsData = [
         image: "image/Lazarus.jpg",
         category: "watching",
         type: "anime",
-        notes:"In 2052, the miracle drug Hapuna has eradicated suffering—until its creator resurfaces to reveal it’s actually a slow-acting poison dooming humanity. Now, the elite Lazarus squad must hunt him down and find an antidote before the clock runs out.",
+        notes:"[33] In 2052, the miracle drug Hapuna has eradicated suffering—until its creator resurfaces to reveal it’s actually a slow-acting poison dooming humanity. Now, the elite Lazarus squad must hunt him down and find an antidote before the clock runs out.",
         videoId: "Nk5n35aeYdA"
     },
     {
@@ -322,7 +322,7 @@ const itemsData = [
         image: "image/The Shiunji Family Children.jpg",
         category: "watching",
         type: "anime",
-        notes:"The wealthy, dazzling Shiunji siblings seem perfect—until their father reveals a devastating secret on the youngest’s 15th birthday: they’re not blood-related. Now, eldest brother Arata must grapple with buried desires as forbidden love threatens to shatter their gilded family.",
+        notes:"[36] The wealthy, dazzling Shiunji siblings seem perfect—until their father reveals a devastating secret on the youngest’s 15th birthday: they’re not blood-related. Now, eldest brother Arata must grapple with buried desires as forbidden love threatens to shatter their gilded family.",
         videoId: "4XVwQr0t_zU"
     },
     {
@@ -340,7 +340,7 @@ const itemsData = [
         image: "image/Witch Watch.jpg",
         category: "watching",
         type: "anime",
-        notes:"Newly minted witch Nico forces her ogre childhood crush, Morihito, to become her familiar—or stay cursed as a cow-tiger hybrid. Now living together, they juggle chaotic magic mishaps, budding feelings, and a looming prophecy that threatens Nico’s life.",
+        notes:"[38] Newly minted witch Nico forces her ogre childhood crush, Morihito, to become her familiar—or stay cursed as a cow-tiger hybrid. Now living together, they juggle chaotic magic mishaps, budding feelings, and a looming prophecy that threatens Nico’s life.",
         videoId: "mLOi_84AlOg"
     },
     {
@@ -349,7 +349,7 @@ const itemsData = [
         image: "image/Uma Musume Cinderella Gray.jpg",
         category: "watching",
         type: "anime",
-        notes:"A spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl.",
+        notes:"[39] A spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl.",
         videoId: "Gw8j8-m1gVk"
     },
     {
@@ -358,7 +358,7 @@ const itemsData = [
         image: "image/I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!.jpg",
         category: "watching",
         type: "anime",
-        notes:"After quitting his toxic A-rank party, red mage Yuke joins an all-female adventurer group—his former students! As they crush dungeons together, his true power (long suppressed by ridicule) finally shines, proving he was never the weakling they thought.",
+        notes:"[40] After quitting his toxic A-rank party, red mage Yuke joins an all-female adventurer group—his former students! As they crush dungeons together, his true power (long suppressed by ridicule) finally shines, proving he was never the weakling they thought.",
         videoId: "LvzfKjNjJeg"
     },
     {
@@ -367,7 +367,7 @@ const itemsData = [
         image: "image/From Old Country Bumpkin to Master Swordsman.jpg",
         category: "watching",
         type: "anime",
-        notes:"Retired swordsman Beryl, content with his quiet rural life, is suddenly thrust into the spotlight when his legendary former students demand his guidance for the royal knights. Now, this (humble old man) must navigate political intrigue, overeager pupils, and his own buried past—all while insisting he’s not the master they remember.",
+        notes:"[41] Retired swordsman Beryl, content with his quiet rural life, is suddenly thrust into the spotlight when his legendary former students demand his guidance for the royal knights. Now, this (humble old man) must navigate political intrigue, overeager pupils, and his own buried past—all while insisting he’s not the master they remember.",
         videoId: "1ukoLVyCfW8"
     },
     {
@@ -376,7 +376,7 @@ const itemsData = [
         image: "image/Teogonia.jpg",
         category: "watching",
         type: "anime",
-        notes:"After a near-fatal injury, borderlands warrior Kai awakens memories of a past life—and realizes his world operates on brutal, unfair rules. Now armed with ancient knowledge, he defies fate to rise from expendable soldier to a power that could shatter the very gods.",
+        notes:"[42] After a near-fatal injury, borderlands warrior Kai awakens memories of a past life—and realizes his world operates on brutal, unfair rules. Now armed with ancient knowledge, he defies fate to rise from expendable soldier to a power that could shatter the very gods.",
         videoId: "_qzw-m-nR3A"
     },
     {
@@ -385,7 +385,7 @@ const itemsData = [
         image: "image/Fire Force Season 3.jpg",
         category: "watching",
         type: "anime",
-        notes:"Third season of Enen no Shouboutai.",
+        notes:"[43] Third season of Enen no Shouboutai.",
         videoId: "nz-VCl7yUAw"
     },
     {
@@ -394,7 +394,7 @@ const itemsData = [
         image: "image/Can a Boy-Girl Friendship Survive.jpg",
         category: "watching",
         type: "anime",
-        notes:"Childhood friends Himari and Yuu—still inseparable in high school—jokingly promise to marry if neither finds love. But when playful words spark real tension, their (just friends) dynamic teeters on the edge of something scarier (and sweeter).",
+        notes:"[44] Childhood friends Himari and Yuu—still inseparable in high school—jokingly promise to marry if neither finds love. But when playful words spark real tension, their (just friends) dynamic teeters on the edge of something scarier (and sweeter).",
         videoId: "fZH5jDK5qV8"
     },
     {
@@ -403,7 +403,7 @@ const itemsData = [
         image: "image/Wind Breaker Season 2.jpg",
         category: "watching",
         type: "anime",
-        notes:"Second season of Wind Breaker.",
+        notes:"[45] Second season of Wind Breaker.",
         videoId: "qaR2_4tYhq8"
     },
     {
@@ -412,7 +412,7 @@ const itemsData = [
         image: "image/The Brilliant Healer's New Life in the Shadows.jpg",
         category: "watching",
         type: "anime",
-        notes:"After being discarded by his ungrateful adventurer party, slum-born healer Zenos opens an underground clinic—only to become a legend in the city’s darkest corners. Now, with nobles and outlaws alike seeking his skills, he must choose: heal the world that broke him, or use his power to break it back.",
+        notes:"[46] After being discarded by his ungrateful adventurer party, slum-born healer Zenos opens an underground clinic—only to become a legend in the city’s darkest corners. Now, with nobles and outlaws alike seeking his skills, he must choose: heal the world that broke him, or use his power to break it back.",
         videoId: "3E5gmPGu238"
     },
     {
@@ -421,7 +421,7 @@ const itemsData = [
         image: "image/The Beginning After the End.jpg",
         category: "watching",
         type: "anime",
-        notes:"The invincible but lonely King Grey is reborn as Arthur, a powerless child in a magical world. For the first time, he experiences love and family—until bandits shatter his newfound happiness, forcing him to reclaim his strength to protect what matters most.",
+        notes:"[47] The invincible but lonely King Grey is reborn as Arthur, a powerless child in a magical world. For the first time, he experiences love and family—until bandits shatter his newfound happiness, forcing him to reclaim his strength to protect what matters most.",
         videoId: "xlRCC8SXT3Y"
     },
     {
@@ -430,7 +430,7 @@ const itemsData = [
         image: "image/Sword of the Demon Hunter Kijin Gentosho.jpg",
         category: "watching",
         type: "anime",
-        notes:"After a demon's curse turns Jinta immortal, he loses everything—including his beloved Shirayuki, killed by his childhood friend Suzune, now a demon queen. Vowing vengeance, he wanders through time, hunting demons and wrestling with the truth behind her betrayal.",
+        notes:"[48] After a demon's curse turns Jinta immortal, he loses everything—including his beloved Shirayuki, killed by his childhood friend Suzune, now a demon queen. Vowing vengeance, he wanders through time, hunting demons and wrestling with the truth behind her betrayal.",
         videoId: "xJUaomEmQgs"
     },
     {
@@ -439,7 +439,7 @@ const itemsData = [
         image: "image/Mobile Suit Gundam GQuuuuuuX.jpg",
         category: "watching",
         type: "anime",
-        notes:"Space colony student Amate (Machu) gets swept into underground mecha battles piloting the GQuuuuuuX—until a rogue Gundam and its enigmatic pilot, Shuji, drag her into a conflict that will rewrite history.",
+        notes:"[49] Space colony student Amate (Machu) gets swept into underground mecha battles piloting the GQuuuuuuX—until a rogue Gundam and its enigmatic pilot, Shuji, drag her into a conflict that will rewrite history.",
         videoId: "LnMIaFV4q6M"
     },
     {
@@ -448,7 +448,7 @@ const itemsData = [
         image: "image/The Apothecary Diaries Season 2.jpg",
         category: "watching",
         type: "anime",
-        notes:"Apothecary-detective Maomao returns to the imperial court, balancing her duties for the consorts and her tangled dynamic with Jinshi—until a suspicious merchant caravan sparks fresh intrigue. With poison, politics, and hidden agendas at play, she must outwit threats inside and outside the palace walls.",
+        notes:"[50] Apothecary-detective Maomao returns to the imperial court, balancing her duties for the consorts and her tangled dynamic with Jinshi—until a suspicious merchant caravan sparks fresh intrigue. With poison, politics, and hidden agendas at play, she must outwit threats inside and outside the palace walls.",
         videoId: "hkflaNu6yAQ"
     },
     {
@@ -457,7 +457,7 @@ const itemsData = [
         image: "image/Summer Pockets.jpg",
         category: "watching",
         type: "anime",
-        notes:"City boy Hairi escapes to a sleepy island after personal turmoil, only to meet four enigmatic girls—each chasing their own summer mysteries. As he helps them, he uncovers the island’s secrets… and maybe a way to heal his own heart.",
+        notes:"[51] City boy Hairi escapes to a sleepy island after personal turmoil, only to meet four enigmatic girls—each chasing their own summer mysteries. As he helps them, he uncovers the island’s secrets… and maybe a way to heal his own heart.",
         videoId: "2u-RIQst_N"
     },
     {
@@ -466,7 +466,7 @@ const itemsData = [
         image: "image/Zatsu Tabi That's Journey.jpg",
         category: "planned",
         type: "anime",
-        notes:"After her manga drafts get rejected, socially awkward artist Chika impulsively takes a solo trip—only to find inspiration (and unexpected friendships) on the road. Now, she vows to keep traveling, turning life’s rejections into fuel for her art and heart.",
+        notes:"[52] After her manga drafts get rejected, socially awkward artist Chika impulsively takes a solo trip—only to find inspiration (and unexpected friendships) on the road. Now, she vows to keep traveling, turning life’s rejections into fuel for her art and heart.",
         videoId: "F2lIatsblH4"
     },
     {
@@ -485,7 +485,7 @@ const itemsData = [
     image: "image/Alya Sometimes Hides Her Feelings in Russian manga.jpg",
     category: "reading",
     type: "manga",
-    notes: "[Currently reading Chapter-25] Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san; Alya Sometimes Hides Her Feelings in Russian; Tokidoki Bosotto Russiago de Dereru Tonari no Aarya-san; My Deskmate Alya Sometimes Hides Her Feelings in Russian",
+    notes: "[54] [Currently reading Chapter-25] Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san; Alya Sometimes Hides Her Feelings in Russian; Tokidoki Bosotto Russiago de Dereru Tonari no Aarya-san; My Deskmate Alya Sometimes Hides Her Feelings in Russian",
     videoId: "",
     mangaLink: "https://mangafire.to/manga/my-deskmate-alya-sometimes-hides-her-feelings-in-russiann.m6nz" // Added manga link"
     },
@@ -495,7 +495,7 @@ const itemsData = [
         image: "image/A Couple of Cuckoos manga.jpg",
         category: "reading",
         type: "manga",
-        notes:"[Currently reading Chapter-249] Kakkou no Iinazuke; A Couple of Cuckoos; Cuckoo's Fiancé",
+        notes:"[55] [Currently reading Chapter-249] Kakkou no Iinazuke; A Couple of Cuckoos; Cuckoo's Fiancé",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/kakkou-no-iinazukee.w1656"
     },
@@ -505,7 +505,7 @@ const itemsData = [
         image: "image/You Were Experienced, I Was Not Our Dating Story manga.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Currently reading Chapter-1] Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi; You Were Experienced, I Was Not: Our Dating Story; Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.; Our Dating Story: The Experienced You and The Inexperienced Me; 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話",
+        notes:"[56] [Currently reading Chapter-1] Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi; You Were Experienced, I Was Not: Our Dating Story; Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.; Our Dating Story: The Experienced You and The Inexperienced Me; 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/keiken-zumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashii.3rqj8"
     },
@@ -515,7 +515,7 @@ const itemsData = [
         image: "image/Shikimori's Not Just a Cutie.jpg",
         category: "reading",
         type: "manga",
-        notes:"[Currently reading Chapter-15] Kawaii dake ja Nai Shikimori-san; Shikimori's Not Just a Cutie; That Girl Isn't Just Cute; That Girl Is Not Just Cute; Kawaii Dake janai Onnanoko Manga; かわいいだけじゃない女の子漫画; Miss Shikimori Is Not Just Cute; 귀엽기만 한 게 아닌 시키모리 양; คุณชิกิโมริไม่ได้น่ารักแค่อย่างเดียวนะ; Shikimori n'est pas juste mignonne; Shikikomori es más que una cara bonita; 我家女友可不止可爱呢; Моя девушка не только милая; 式守同學不只可愛而已",
+        notes:"[57] [Currently reading Chapter-15] Kawaii dake ja Nai Shikimori-san; Shikimori's Not Just a Cutie; That Girl Isn't Just Cute; That Girl Is Not Just Cute; Kawaii Dake janai Onnanoko Manga; かわいいだけじゃない女の子漫画; Miss Shikimori Is Not Just Cute; 귀엽기만 한 게 아닌 시키모리 양; คุณชิกิโมริไม่ได้น่ารักแค่อย่างเดียวนะ; Shikimori n'est pas juste mignonne; Shikikomori es más que una cara bonita; 我家女友可不止可爱呢; Моя девушка не только милая; 式守同學不只可愛而已",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/shikimoris-not-just-a-cutiee.295"
     },
@@ -525,7 +525,7 @@ const itemsData = [
         image: "image/Katainaka no Ossan,.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] Author: Kazuki Satou, Shigeru Sagazaki Published: Aug 23, 2021 to ? Genres: Action, Comedy, Adventure, Fantasy, Seinen, Magic       Mangazines: Young Champion Magazine",
+        notes:"[58] [Planned Reading] Author: Kazuki Satou, Shigeru Sagazaki Published: Aug 23, 2021 to ? Genres: Action, Comedy, Adventure, Fantasy, Seinen, Magic       Mangazines: Young Champion Magazine",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/katainaka-no-ossan-kensei-ni-naru-tada-no-inaka-no-kenjutsu-shihan-datta-no-ni-taiseishita-deshi-tachi-ga-ore-wo-hottekurenai-kenn.pjr9j"
     },
@@ -535,7 +535,7 @@ const itemsData = [
         image: "image/A Sign of Affection manga.jpg",
         category: "reading",
         type: "manga",
-        notes:"[Currently reading Chapter-21]  Author: Suu MorishitaPublished: Jul 23, 2019 to ?Genres: Romance, Shoujo, Slice of LifeMangazines: Dessert",
+        notes:"[59] [Currently reading Chapter-21]  Author: Suu MorishitaPublished: Jul 23, 2019 to ?Genres: Romance, Shoujo, Slice of LifeMangazines: Dessert",
         videoId: "",
         mangaLink: "https://mangafire.to/read/yubisaki-to-renrenn.qxl2j/en/chapter-21"
     },
@@ -545,7 +545,7 @@ const itemsData = [
         image: "image/blue box.jpg",
         category: "reading",
         type: "manga",
-        notes:"[Currently reading Chapter-196] Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!",
+        notes:"[60] [Currently reading Chapter-196] Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!",
         videoId: "",
         mangaLink: "https://mangaplus.shueisha.co.jp/titles/100157"
     },
@@ -555,7 +555,7 @@ const itemsData = [
         image: "image/Medaka Kuroiwa is Impervious to My Charms manga.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] High school girl Mona Kawai is uniformly adored by her fellow pupils; that is until Medaka Kuroiwa transfers to her school. He appears to be constantly angry and refuses to even look at her; she determines that she will get him to fall for her.",
+        notes:"[61] [Planned Reading] High school girl Mona Kawai is uniformly adored by her fellow pupils; that is until Medaka Kuroiwa transfers to her school. He appears to be constantly angry and refuses to even look at her; she determines that she will get him to fall for her.",
         videoId: "",
         mangaLink: "https://mangafire.to/read/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw/en/chapter-1"
     },
@@ -565,7 +565,7 @@ const itemsData = [
         image: "image/Nano Machine.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading]The story of Cheon Yeo-Woon's journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
+        notes:"[62] [Planned Reading]The story of Cheon Yeo-Woon's journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/nano-machinee.m2y8v"
     },
@@ -575,7 +575,7 @@ const itemsData = [
         image: "image/The Too-Perfect Saint Tossed Aside by My Fiancé and Sold to Another Kingdom manga.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] Synopsis: Philia is the greatest saint her kingdom has ever known, but you'd have a hard time convincing her of that. Raised to believe that she's untalented, Philia suffers neglect and abuse at the hands of her parents and fiancé until she's abruptly sold to the neighboring kingdom, whose saint has passed away.",
+        notes:"[63] [Planned Reading] Synopsis: Philia is the greatest saint her kingdom has ever known, but you'd have a hard time convincing her of that. Raised to believe that she's untalented, Philia suffers neglect and abuse at the hands of her parents and fiancé until she's abruptly sold to the neighboring kingdom, whose saint has passed away.",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/kanpeki-sugite-kawaigeganai-to-konyaku-hakisareta-seijo-wa-ringoku-ni-urareruu.jj864"
     },
@@ -585,7 +585,7 @@ const itemsData = [
         image: "image/The Shiunji Family Children manga.jpg",
         category: "reading",
         type: "manga",
-        notes:"[Currently reading Chapter-18] (The Shiunji Family Children) follows the lives of the seven Shiunji siblings in a mansion in Tokyo's Setagaya ward. The story revolves around Arata, the eldest son, who is tired of his sisters' behavior and dreams of being free of them. His life takes an unexpected turn when his father reveals a shocking truth: Arata is not biologically related to his sisters, except for twin Shion and Minami. This revelation throws the family into turmoil, as they navigate their changing relationships. ",
+        notes:"[64] [Currently reading Chapter-18] (The Shiunji Family Children) follows the lives of the seven Shiunji siblings in a mansion in Tokyo's Setagaya ward. The story revolves around Arata, the eldest son, who is tired of his sisters' behavior and dreams of being free of them. His life takes an unexpected turn when his father reveals a shocking truth: Arata is not biologically related to his sisters, except for twin Shion and Minami. This revelation throws the family into turmoil, as they navigate their changing relationships. ",
         videoId: "",
         mangaLink: "https://mangafire.to/read/shiunji-ke-no-kodomo-tachii.n31vn/en/chapter-31"
     },
@@ -595,7 +595,7 @@ const itemsData = [
         image: "image/Hima-Ten!.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] (Hima-Ten!) is a Japanese manga by Genki Ono, serialized in Shueisha's Weekly Shonen Jump magazine. It follows Tenichi Iemori, a high school student who works part-time as a cleaner, and Himari Yoshino, a popular model who is also his new classmate and the subject of his cleaning duties. The story highlights the contrast between Himari's public image and her messy living situation. ",
+        notes:"[65] [Planned Reading] (Hima-Ten!) is a Japanese manga by Genki Ono, serialized in Shueisha's Weekly Shonen Jump magazine. It follows Tenichi Iemori, a high school student who works part-time as a cleaner, and Himari Yoshino, a popular model who is also his new classmate and the subject of his cleaning duties. The story highlights the contrast between Himari's public image and her messy living situation. ",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/hima-tenn.3pnx9"
     },
@@ -605,7 +605,7 @@ const itemsData = [
         image: "image/Days with My Stepsister manga.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Currently reading Chapter-24.1] (Days with My Stepsister) follows Yuuta Asamura and his new stepsister Saki Ayase after his father remarries. They are both burdened by the scars of their parents' divorces and initially agree to maintain a respectful distance. Despite their cautious approach, they gradually grow closer, exploring the nature of their burgeoning feelings: admiration, familial love, or something more. ",
+        notes:"[66] [Currently reading Chapter-24.1] (Days with My Stepsister) follows Yuuta Asamura and his new stepsister Saki Ayase after his father remarries. They are both burdened by the scars of their parents' divorces and initially agree to maintain a respectful distance. Despite their cautious approach, they gradually grow closer, exploring the nature of their burgeoning feelings: admiration, familial love, or something more. ",
         videoId: "",
         mangaLink: "https://mangafire.to/read/gimai-seikatsuu.mqx1p/en/chapter-24.1"
     },
@@ -615,7 +615,7 @@ const itemsData = [
         image: "image/The Beginning After the End manhwa.jpg",
         category: "reading",
         type: "manga",
-        notes:"[Currently reading Chapter-218] (The Beginning After the End) tells the story of King Grey, who is reincarnated as Arthur Leywin after a mysterious death. Arthur, possessing memories of his past life, is born into a world of magic and warriors, eventually learning to control mana and grow into a powerful being. The series follows his journey as he navigates this new world, utilizing his knowledge and skills to overcome challenges and make a difference. ",
+        notes:"[67] [Currently reading Chapter-218] (The Beginning After the End) tells the story of King Grey, who is reincarnated as Arthur Leywin after a mysterious death. Arthur, possessing memories of his past life, is born into a world of magic and warriors, eventually learning to control mana and grow into a powerful being. The series follows his journey as he navigates this new world, utilizing his knowledge and skills to overcome challenges and make a difference. ",
         videoId: "",
         mangaLink: "https://mangafire.to/manga/the-beginning-after-the-endd.6v55p"
     },
@@ -626,7 +626,7 @@ const itemsData = [
         image: "image/Aharen-san wa Hakarenai.jpg",
         category: "planned",
         type: "anime",
-        notes:"A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
+        notes:"[68] A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
         videoId: "F7bGTibgcjM"
     },
      {
@@ -635,7 +635,7 @@ const itemsData = [
         image: "image/Aharen-san wa Hakarenai Season 2.jpg",
         category: "planned",
         type: "anime",
-        notes:"Aharen-san wa Hakarenai Season 2 follows the second year of Reina Aharen and Raido's high school journey as they navigate a new semester and a new transfer student, Riku Tamanaha.",
+        notes:"[69] Aharen-san wa Hakarenai Season 2 follows the second year of Reina Aharen and Raido's high school journey as they navigate a new semester and a new transfer student, Riku Tamanaha.",
         videoId: "5-nbw77_Bss"
     },
      {
@@ -644,7 +644,7 @@ const itemsData = [
         image: "image/The Regressed Youngest Son of the Duke Is an Assassin.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] Cyan Vert, the youngest son of the prestigious Vert family, was born into an environment of high expectations and fierce competition. ",
+        notes:"[70] [Planned Reading] Cyan Vert, the youngest son of the prestigious Vert family, was born into an environment of high expectations and fierce competition. ",
         mangaLink: "https://mangafire.to/manga/the-reborn-young-lord-is-an-assassinn.oxpw8"
     },
     {
@@ -653,7 +653,7 @@ const itemsData = [
         image: "image/Solo Leveling.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] Na Honjaman Level Up Solo Leveling I Level Up Alone Only I Level Up",
+        notes:"[71] [Planned Reading] Na Honjaman Level Up Solo Leveling I Level Up Alone Only I Level Up",
         mangaLink: "https://mangafire.to/read/solo-levelingg.52x0/en/chapter-111"
     },
     {
@@ -662,7 +662,7 @@ const itemsData = [
         image: "image/Solo Leveling Ragnarok.jpg",
         category: "planned",
         type: "manga",
-        notes:"[Planned Reading] Na Honjaman Level Up: Ragnarok Solo Leveling: Ragnarok",
+        notes:"[72] [Planned Reading] Na Honjaman Level Up: Ragnarok Solo Leveling: Ragnarok",
         mangaLink: "https://mangafire.to/manga/na-honjaman-level-up-ragnarokk.ppx06"
     },
     //update 
@@ -672,7 +672,7 @@ const itemsData = [
         image: "image/Please Put Them On, Takamine-san.jpg",
         category: "watching",
         type: "anime",
-        notes:"Takane Takamine is great at everything she does, and her magnetic personality makes her the envy of everyone. She gets good grades, excels at sports, and even manages to become student council president during her first year of high school. But Takamine has a secret—she possesses an ability called Eternal Virgin Road, allowing her to redo past actions and achieve a different result.",
+        notes:"[73] Takane Takamine is great at everything she does, and her magnetic personality makes her the envy of everyone. She gets good grades, excels at sports, and even manages to become student council president during her first year of high school. But Takamine has a secret—she possesses an ability called Eternal Virgin Road, allowing her to redo past actions and achieve a different result.",
         videoId: "XQABbjkXMB4"
     },
     //update 22/05/2025
@@ -692,7 +692,7 @@ const itemsData = [
         image: "image/The Dreaming Boy is a Realist.jpg",
         category: "planned",
         type: "anime",
-        notes:"Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa. His usual day revolves around shadowing her and confessing his undying love at every turn. ",
+        notes:"[74] Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa. His usual day revolves around shadowing her and confessing his undying love at every turn. ",
         videoId: "sUJ9hUhViBo"
     },
 //update 26/05/2025
@@ -702,7 +702,7 @@ const itemsData = [
         image: "image/The Most Heretical Last Boss Queen From Villainess to Savior.jpg",
         category: "planned",
         type: "anime",
-        notes:"Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light. While on her way to replay it, she tragically died, reincarnating as the game's final boss and firstborn princess of Freesia.",
+        notes:"[75] Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light. While on her way to replay it, she tragically died, reincarnating as the game's final boss and firstborn princess of Freesia.",
         videoId: "KdmxkRQshic"
     },
     
