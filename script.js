@@ -587,7 +587,7 @@ const itemsData = [
         type: "manga",
         notes:"[64] [Currently reading Chapter-18] (The Shiunji Family Children) follows the lives of the seven Shiunji siblings in a mansion in Tokyo's Setagaya ward. The story revolves around Arata, the eldest son, who is tired of his sisters' behavior and dreams of being free of them. His life takes an unexpected turn when his father reveals a shocking truth: Arata is not biologically related to his sisters, except for twin Shion and Minami. This revelation throws the family into turmoil, as they navigate their changing relationships. ",
         videoId: "",
-        mangaLink: "https://mangafire.to/read/shiunji-ke-no-kodomo-tachii.n31vn/en/chapter-31"
+        mangaLink: "https://mangafire.to/read/shiunji-ke-no-kodomo-tachii.n31vn/en/chapter-36"
     },
     {
     id: 65,
