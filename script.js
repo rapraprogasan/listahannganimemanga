@@ -706,6 +706,16 @@ const itemsData = [
         videoId: "KdmxkRQshic"
     },
     
+//update 30/05/2025
+    {
+    id: 76,
+        title: "Akuyaku Onzoushi no Kanchigai Seija Seikatsu - Nidome no Jinsei wa Yaritai Houdai Shitai Dake na no ni",
+        image: "image/Akuyaku Onzoushi no Kanchigai Seija Seikatsu - Nidome no Jinsei wa Yaritai Houdai Shitai Dake na no ni.jpg",
+        category: "planned",
+        type: "manga",
+        notes:"[76]  A Japanese light novel series written by Kinome, with illustrations by Herigaru. The series began publication on April 10, 2023 by ASCII Media Works.",
+        mangaLink: "https://mangafire.to/read/akuyaku-onzoushi-no-kanchigai-seija-seikatsu-nidome-no-jinsei-wa-yaritai-houdai-shitai-dake-na-no-nii.v9xll/en/chapter-1"
+    },
 ];
 
 // DOM Elements
