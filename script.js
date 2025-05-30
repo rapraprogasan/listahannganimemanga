@@ -725,6 +725,17 @@ const itemsData = [
         notes:"[77]Sono Bisque Doll wa Koi wo Suru; My Dress-Up Darling; Sono Kisekae Ningyou wa Koi wo suru; Sexy Cosplay Doll; More Than",
         mangaLink: "https://mangafire.to/read/sono-bisque-doll-wa-koi-wo-suruu.pmm4/en/chapter-1"
     },
+    {
+    id: 78,
+        title: "2.5 Dimensional Seduction",
+        image: "image/2.5 Dimensional Seduction.jpg",
+        category: "reading",
+        type: "manga",
+        notes:"[78] Author: Yuu Hashimoto Published  Jun 14, 2019 to ? Genres Comedy, Ecchi, Harem, Romance, Shounen, School, Slice of Life Mangazines Shounen Jump+",
+        mangaLink: "https://mangafire.to/read/25-dimensional-seductionn.ll4rq/en/chapter-71"
+    },
+    
+    
 ];
 
 // DOM Elements
