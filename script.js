@@ -716,6 +716,15 @@ const itemsData = [
         notes:"[76]  A Japanese light novel series written by Kinome, with illustrations by Herigaru. The series began publication on April 10, 2023 by ASCII Media Works.",
         mangaLink: "https://mangafire.to/read/akuyaku-onzoushi-no-kanchigai-seija-seikatsu-nidome-no-jinsei-wa-yaritai-houdai-shitai-dake-na-no-nii.v9xll/en/chapter-1"
     },
+    {
+    id: 77,
+        title: "My Dress-Up Darling",
+        image: "image/My Dress-Up Darling.jpg",
+        category: "planned",
+        type: "manga",
+        notes:"[77]Sono Bisque Doll wa Koi wo Suru; My Dress-Up Darling; Sono Kisekae Ningyou wa Koi wo suru; Sexy Cosplay Doll; More Than",
+        mangaLink: "https://mangafire.to/read/sono-bisque-doll-wa-koi-wo-suruu.pmm4/en/chapter-1"
+    },
 ];
 
 // DOM Elements
