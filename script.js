@@ -96,9 +96,9 @@ const itemsData = [
     id: 11,
         title: "Shoshimin How to Become Ordinary",
         image: "image/Shoshimin How to Become Ordinary.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes:"[11] Ex-detective Jougorou Kobato and shy Yuki Osanai vow to live ordinary high school lives—but Jougorou’s nosy instincts keep pulling them into mysteries. From trivial school oddities to real dangers, their quest for normalcy keeps backfiring in this mix of comedy, slice-of-life, and light suspense.",
+        notes:"[Ratings 7.5/10] Ex-detective Jougorou Kobato and shy Yuki Osanai vow to live ordinary high school lives—but Jougorou’s nosy instincts keep pulling them into mysteries. From trivial school oddities to real dangers, their quest for normalcy keeps backfiring in this mix of comedy, slice-of-life, and light suspense.",
         videoId: "5GTiAYZ19D4"
     },
      {
