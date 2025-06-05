@@ -132,9 +132,9 @@ const itemsData = [
     id: 15,
         title: "The Dangers in My Heart: Twi-Yaba",
         image: "image/The Dangers in My Heart Twi-Yaba.jpg",
-        category: "planned",
+        category: "completed",
         type: "anime",
-        notes:"[15] OVA, Side stories of Boku no Kokoro no Yabai Yatsu, based on a series of shorts that were posted on X (formerly Twitter).",
+        notes:"[Ratings 8/10] OVA, Side stories of Boku no Kokoro no Yabai Yatsu, based on a series of shorts that were posted on X (formerly Twitter).",
     },
     {
     id: 16,
