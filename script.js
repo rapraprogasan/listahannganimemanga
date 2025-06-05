@@ -114,18 +114,18 @@ const itemsData = [
     id: 13,
         title: "The Dangers in My Heart",
         image: "image/The Dangers in My Heart.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes:"[13] Middle schooler Kyoutarou Ichikawa fantasizes about killing his classmate Anna Yamada—until he discovers her clumsy, airheaded side during library visits. His murderous urges twist into an awkward mix of protectiveness and budding affection. Could this twisted crush become something real?",
+        notes:"[Ratings 9/10] Middle schooler Kyoutarou Ichikawa fantasizes about killing his classmate Anna Yamada—until he discovers her clumsy, airheaded side during library visits. His murderous urges twist into an awkward mix of protectiveness and budding affection. Could this twisted crush become something real?",
         videoId: "1x6BnBAOwaY"
     },
      {
     id: 14,
         title: "The Dangers in My Heart  Season 2",
         image: "image/The Dangers in My Heart  Season 2.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes:"[14] Kyoutarou and Anna return from winter break with a deeper connection—she pursues modeling dreams while he wrestles with his growing feelings. As their bond blurs the line between friendship and romance, they must choose: stay as they are, or take the leap into love?",
+        notes:"[Ratings 10/10] Kyoutarou and Anna return from winter break with a deeper connection—she pursues modeling dreams while he wrestles with his growing feelings. As their bond blurs the line between friendship and romance, they must choose: stay as they are, or take the leap into love?",
         videoId: "DAbLNzr4cC8"
     },
      {
@@ -825,6 +825,27 @@ const itemsData = [
         notes:"[88] As far as it goes, many boys, especially in their teenage years, want to have a girlfriend. ",
         videoId: "LHx7lkoQ8Cc"
     },
+    {
+    id: 89,
+        title: "Shoshimin: How to Become Ordinary",
+        image: "image/Shoshimin How to Become Ordinary.jpg",
+        category: "completed",
+        type: "anime",
+        notes:" [Ratings 7/10 ] Jougorou Kobato has a habit of inserting himself into other people's problems. After realizing his detective skills are neither wanted nor appreciated, he makes an agreement with his shy friend Yuki Osanai to become ordinary together. ",
+        videoId: "5GTiAYZ19D4"
+    },
+    {
+    id: 90,
+        title: "The Dangers in My Heart ",
+        image: "image/The Dangers in My Heart manga.jpg",
+        category: "planned",
+        type: "manga",
+        notes:"[90] [Planned Reading]",
+        mangaLink: "https://mangafire.to/read/boku-no-kokoro-no-yabai-yatsuu.vv882/en/chapter-114"
+    },
+    
+    
+The Dangers in My Heart manga
     
 ];
 
