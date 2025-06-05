@@ -741,7 +741,7 @@ const itemsData = [
         image: "image/Our Last Crusade or the Rise of a New World.jpg",
         category: "planned",
         type: "anime",
-        notes:"[79] A force known as Astral power permeates throughout the world, wielded by astral mages. Fearing its destructive power, the "Empire" persecutes those who show their abilities.",
+        notes:"[79] A force known as Astral power permeates throughout the world, wielded by astral mages. Fearing its destructive power, the Empire persecutes those who show their abilities.",
         videoId: "8nAMu3xE2_0"
     },
     {
