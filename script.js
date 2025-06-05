@@ -801,7 +801,7 @@ const itemsData = [
 {
     id: 86,
         title: "Kaguya-sama: Love is War",
-        image: "image/Kaguya-sama Love is War.jpg",
+        image: "image/Kaguya sama.jpg",
         category: "planned",
         type: "anime",
         notes:"[86] At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. ",
