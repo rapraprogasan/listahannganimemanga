@@ -827,20 +827,11 @@ const itemsData = [
     },
     {
     id: 89,
-        title: "Shoshimin: How to Become Ordinary",
-        image: "image/Shoshimin How to Become Ordinary.jpg",
-        category: "completed",
-        type: "anime",
-        notes:" [Ratings 7/10 ] Jougorou Kobato has a habit of inserting himself into other people's problems. After realizing his detective skills are neither wanted nor appreciated, he makes an agreement with his shy friend Yuki Osanai to become ordinary together. ",
-        videoId: "5GTiAYZ19D4"
-    },
-    {
-    id: 90,
         title: "The Dangers in My Heart ",
         image: "image/The Dangers in My Heart manga.jpg",
         category: "planned",
         type: "manga",
-        notes:"[90] [Planned Reading]",
+        notes:"[89] [Planned Reading]",
         mangaLink: "https://mangafire.to/read/boku-no-kokoro-no-yabai-yatsuu.vv882/en/chapter-114"
     },    
 ];
