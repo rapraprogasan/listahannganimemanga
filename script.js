@@ -734,7 +734,97 @@ const itemsData = [
         notes:"[78] Author: Yuu Hashimoto Published  Jun 14, 2019 to ? Genres Comedy, Ecchi, Harem, Romance, Shounen, School, Slice of Life Mangazines Shounen Jump+",
         mangaLink: "https://mangafire.to/read/25-dimensional-seductionn.ll4rq/en/chapter-71"
     },
-    
+    //update 05/06/2025
+    {
+    id:  79,
+        title: "Our Last Crusade or the Rise of a New World",
+        image: "image/Our Last Crusade or the Rise of a New World.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[79] A force known as Astral power permeates throughout the world, wielded by astral mages. Fearing its destructive power, the "Empire" persecutes those who show their abilities.",
+        videoId: "8nAMu3xE2_0"
+    },
+    {
+    id: 80,
+        title: "The Eminence in Shadow",
+        image: "image/The Eminence in Shadow.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[80] For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible, which has led him to undertake all kinds of rigorous training.",
+        videoId: "H-3fre7943U"
+    },
+{
+    id: 81,
+        title: "If It's for My Daughter, I'd Even Defeat a Demon Lord",
+        image: "image/If It's for My Daughter, I'd Even Defeat a Demon Lord.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[81] Eighteen-year-old Dale Reki is a skilled, kind, and respected traveler, acknowledged as one of the leading adventurers in the city of Kreuz.",
+        videoId: "aJT6_qQBYs8"
+    },
+{
+    id: 82,
+        title: "Girlfriend, Girlfriend",
+        image: "image/Girlfriend, Girlfriend.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[82] Naoya Mukai is having the time of his life after his childhood friend Saki Saki finally accepts one of his countless confessions.",
+        videoId: "nPn4JX9WURw"
+    },
+{
+    id: 83,
+        title: "A Condition Called Love",
+        image: "image/A Condition Called Love.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[83] Hotaru Hinase has lived nearly sixteen years without romance. She is satisfied alone as long as she can enjoy the little things in life with her beloved friends and family.",
+        videoId: "SYyAFIImIdA"
+    },
+{
+    id: 84,
+        title: "Horimiya: The Missing Pieces",
+        image: "image/Horimiya The Missing Pieces.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[84] As the graduation ceremony at Katagiri High School comes to an end, Kyouko Hori, her boyfriend Izumi Miyamura, and their friends begin to look back on their time as students. ",
+        videoId: "MU-Vk5R0vVY"
+    },
+{
+    id: 85,
+        title: "The Angel Next Door Spoils Me Rotten",
+        image: "image/The Angel Next Door Spoils Me Rotten.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[85] Mahiru Shiina is worthy of her nickname Angel  she is a divine beauty loved by all, and she excels in both academics and athletics.",
+        videoId: "IUq59ARXtdg"
+    },
+{
+    id: 86,
+        title: "Kaguya-sama: Love is War",
+        image: "image/Kaguya-sama Love is War.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[86] At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. ",
+        videoId: "Ti2kJ-GYO68"
+    },
+{
+    id: 87,
+        title: "More than a Married Couple, but Not Lovers.",
+        image: "image/More than a Married Couple, but Not Lovers.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[87] Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka.",
+        videoId: "l5D8xknhQNA"
+    },
+    {
+    id: 88,
+        title: "Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?",
+        image: "image/Hensuki Are you willing to Fall in Love with a Pervert, as long as she's a Cutie.jpg",
+        category: "planned",
+        type: "anime",
+        notes:"[88] As far as it goes, many boys, especially in their teenage years, want to have a girlfriend. ",
+        videoId: "LHx7lkoQ8Cc"
+    },
     
 ];
 
