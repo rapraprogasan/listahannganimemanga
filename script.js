@@ -842,11 +842,7 @@ const itemsData = [
         type: "manga",
         notes:"[90] [Planned Reading]",
         mangaLink: "https://mangafire.to/read/boku-no-kokoro-no-yabai-yatsuu.vv882/en/chapter-114"
-    },
-    
-    
-The Dangers in My Heart manga
-    
+    },    
 ];
 
 // DOM Elements
