@@ -140,9 +140,9 @@ const itemsData = [
     id: 16,
         title: "The Foolish Angel Dances with the Devil",
         image: "image/The Foolish Angel Dances with the Devil.jpg",
-        category: "watching",
+        category: "completed",
         type: "anime",
-        notes:"[16] With Hell on the brink of defeat, demon soldier Akutsu infiltrates a human high school to recruit a savior—only to target Lily Amane, an angel in disguise. As their rivalry twists into an unlikely bond, Akutsu faces a dire choice: complete his mission or betray Hell for love.",
+        notes:"[Ratings 6.5/10] With Hell on the brink of defeat, demon soldier Akutsu infiltrates a human high school to recruit a savior—only to target Lily Amane, an angel in disguise. As their rivalry twists into an unlikely bond, Akutsu faces a dire choice: complete his mission or betray Hell for love.",
         videoId: "3fBQ9LS1hQY"
     },
     {
