@@ -833,7 +833,17 @@ const itemsData = [
         type: "manga",
         notes:"[89] [Planned Reading]",
         mangaLink: "https://mangafire.to/read/boku-no-kokoro-no-yabai-yatsuu.vv882/en/chapter-114"
-    },    
+    },   
+    //update 06/06/2025
+    {
+    id: 10,
+        title: "A Galaxy Next Door",
+        image: "image/A Galaxy Next Door.jpg",
+        category: "completed",
+        type: "anime",
+        notes:"[Ratings 7/10] Ichirou Kuga has suddenly found himself taking on the responsibility of caring for his two younger siblings after their father's untimely death.",
+        videoId: "ZQG_2UrgzQ8"
+    },
 ];
 
 // DOM Elements
