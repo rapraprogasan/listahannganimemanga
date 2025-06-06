@@ -158,7 +158,7 @@ const itemsData = [
     id: 18,
         title: "Kimi ni Todoke: From Me to You",
         image: "image/Kimi ni Todoke From Me to You.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[18] Shy (Sadako) Sawako is feared by classmates until popular Kazehaya befriends her. As she grows confident, she inspires him too—proving kindness breaks all stereotypes.",
         videoId: "_gJR6gfRYEQ"
@@ -167,7 +167,7 @@ const itemsData = [
     id: 19,
         title: "Kimi ni Todoke: From Me to You Season 2",
         image: "image/Kimi ni Todoke From Me to You Season 2.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[19] Sawako hides her Valentine's chocolates—and feelings—from Kazehaya, creating tension. When a new classmate shows interest in her, their unspoken love faces its first real test.",
         videoId: "9aRQlHYaluU"
@@ -176,7 +176,7 @@ const itemsData = [
     id: 20,
         title: "Kimi ni Todoke: From Me to You Season 3",
         image: "image/Kimi ni Todoke From Me to You Season 3.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[20] Sawako and Kazehaya grow closer through summer dates and family meetings, navigating young love’s doubts. Meanwhile, friends Chizuru and Ayane wrestle with their own romantic struggles, as all four learn that love is equal parts joy and vulnerability.",
         videoId: "tJbJI5GE0jg"
@@ -194,7 +194,7 @@ const itemsData = [
     id: 22,
         title: "The Gorilla God's Go-To Girl",
         image: "image/The Gorilla God's Go-To Girl.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[22] Timid noble girl Sophia gains the ultra-rare (Gorilla God) blessing—making her absurdly strong but desperate to hide it. Thrust into the Royal Knights against her will, she struggles to maintain a peaceful facade while her monstrous power keeps stealing the spotlight.",
         videoId: "kTrG6N72ZN4"
@@ -221,7 +221,7 @@ const itemsData = [
     id: 25,
         title: "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
         image: "image/The Too-Perfect Saint Tossed Aside by My Fiancé and Sold to Another Kingdom.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[25] Arrogant saint Philia—so powerful she’s unbearable—gets dumped and sold to a rival kingdom. But when her new life defies all expectations, she must confront her own flaws to rewrite her story.",
         videoId: "bVr2-cbGhM0"
@@ -266,7 +266,7 @@ const itemsData = [
     id: 30,
         title: "Remake Our Life!",
         image: "image/Remake Our Life!.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[30] Failed game developer Kyouya wakes up 10 years in the past, ditches business school for art college, and teams up with future legends (including his former boss) to rewrite their destinies. Together, they chase creative dreams—but can he avoid past regrets when success demands more than just second chances?",
         videoId: "MSvTN_aQrCU"
