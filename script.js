@@ -203,7 +203,7 @@ const itemsData = [
     id: 23,
         title: "Lycoris Recoil",
         image: "image/Lycoris Recoil.jpg",
-        category: "planned",
+        category: "watching",
         type: "anime",
         notes:"[23] Disciplined assassin Takina gets demoted to LycoReco—a quirky cafe run by carefree prodigy Chisato, who solves crises without killing. As their clashing philosophies collide during missions, Takina must choose: return to her rigid old life, or embrace Chisato’s belief that (saving) means more than eliminating threats.",
         videoId: "F5DMjhg3A6c"
