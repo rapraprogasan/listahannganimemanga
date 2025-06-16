@@ -494,15 +494,88 @@ document.addEventListener('DOMContentLoaded', function() {
         notes:"[55] Aharen-san wa Hakarenai Season 2 follows the second year of Reina Aharen and Raido's high school journey as they navigate a new semester and a new transfer student, Riku Tamanaha.",
         videoId: "5-nbw77_Bss"
         },
+        //update 16/06/2025
         {
-            id: 6,
-            title: "Neon Genesis Evangelion",
-            image: "https://via.placeholder.com/300x425/6a5acd/ffffff?text=Neon+Genesis+Evangelion",
-            status: "dropped",
-            rating: 3,
-            notes: "Couldn't get into it. Might try again later.",
-            videoId: "13nSISwxrY4"
-        },
+            id: 56,
+            title: "More than a Married Couple, but Not Lovers",
+            image: "image/More than a Married Couple, but Not Lovers.jpg",
+            status: "planned",
+            rating: 0,
+            notes: "[56] Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka.",
+            videoId: "l5D8xknhQNA"
+        },   
+        {
+     id: 57,
+     title: "The Dreaming Boy is a Realist",
+     image: "image/The Dreaming Boy is a Realist.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[57] Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa.",
+     videoId: "sUJ9hUhViBo"
+},
+        {
+     id: 58,
+     title: "Horimiya",
+     image: "image/Horimiya.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[58] On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds.",
+     videoId: "42LiC4xY8YE"
+},
+        {
+     id: 59,
+     title: "The Ice Guy and His Cool Female Colleague",
+     image: "image/The Ice Guy and His Cool Female Colleague.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[59] Kind-hearted Himuro-kun is unfortunate: when in deep concentration, stressed, or flustered, he involuntarily creates blizzard conditions for himself and anyone in his vicinity.",
+     videoId: "g9zwEj1klq8"
+},
+        {
+     id: 60,
+     title: "My Love Story with Yamada-kun at Lv999",
+     image: "image/My Love Story with Yamada-kun at Lv999.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[60] After her boyfriend breaks up with her for another girl, college student Akane Kinoshita wrestles with a broken heart and the memories he left behind.",
+     videoId: "LpZI3j6Axlo"
+},
+        {
+     id: 61,
+     title: "Tsukigakirei",
+     image: "image/Tsukigakirei.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[61] With a new school year comes a new crowd of classmates, and for their final year of junior high, aspiring writer Kotarou Azumi and track team member Akane Mizuno end up in the same class.",
+     videoId: "HoEFpyDHZzw"
+},
+        {
+     id: 62,
+     title: "Sakura-sou no Pet na Kanojo",
+     image: "image/Sakura-sou no Pet na Kanojo.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[62] At Suimei High, the Sakura-sou dormitory is infamous for housing the school's most notorious delinquents. ",
+     videoId: "HPTtuR1EF_U"
+},
+        {
+     id: 63,
+     title: "Fruits Basket 1st Season",
+     image: "image/Fruits Basket 1st Season.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[63] Tooru Honda has always been fascinated by the story of the Chinese zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone.",
+     videoId: "g5MDFMukmUI"
+},
+        {
+     id: 64,
+     title: "In Another World With My Smartphone",
+     image: "image/In Another World With My Smartphone.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[64] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
+     videoId: "Tpl6mSXo8po"
+},
         
         
         
