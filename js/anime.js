@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 31,
         title: "I'm Getting Married to a Girl I Hate in My Class",
         image: "image/I'm Getting Married to a Girl I Hate in My Class.jpg",
-        status: "planned",
+        status: "completed",
         rating: 3.5,
         notes:" High school enemies Saito and Akane are forced into an arranged marriage by their grandparents. Now stuck living together, their fiery hatred might just melt into something hotter—love.",
         videoId: "RgyqkGLsZ2M"
