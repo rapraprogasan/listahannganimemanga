@@ -239,8 +239,8 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 27,
         title: "Violet Evergarden: The Day You Understand (I Love You) Will Surely Come",
         image: "image/Violet Evergarden.jpg",
-        status: "planned",
-        rating: 0,
+        status: "completed",
+        rating: 4,
         notes:"[27] Violet struggles to craft a love letter for opera star Irma, who rejects every draft—until a raw, honest confession reveals the truth: the letter was never meant for a lover, but for Irma’s estranged sister.",
         videoId: "T6TqdAkREJk"
         },
@@ -267,8 +267,8 @@ document.addEventListener('DOMContentLoaded', function() {
         title: "Remake Our Life!",
         image: "image/Remake Our Life!.jpg",
         status: "watching",
-        rating: 0,
-        notes:"[30] Failed game developer Kyouya wakes up 10 years in the past, ditches business school for art college, and teams up with future legends (including his former boss) to rewrite their destinies. Together, they chase creative dreams—but can he avoid past regrets when success demands more than just second chances?",
+        rating: 3.5,
+        notes:" Failed game developer Kyouya wakes up 10 years in the past, ditches business school for art college, and teams up with future legends (including his former boss) to rewrite their destinies. Together, they chase creative dreams—but can he avoid past regrets when success demands more than just second chances?",
         videoId: "MSvTN_aQrCU"
         },
         {
@@ -418,8 +418,8 @@ document.addEventListener('DOMContentLoaded', function() {
         title: "The Beginning After the End",
         image: "image/The Beginning After the End.jpg",
         status: "watching",
-        rating: 0,
-        notes:"[47] The invincible but lonely King Grey is reborn as Arthur, a powerless child in a magical world. For the first time, he experiences love and family—until bandits shatter his newfound happiness, forcing him to reclaim his strength to protect what matters most.",
+        rating: 2,
+        notes:" The invincible but lonely King Grey is reborn as Arthur, a powerless child in a magical world. For the first time, he experiences love and family—until bandits shatter his newfound happiness, forcing him to reclaim his strength to protect what matters most.",
         videoId: "xlRCC8SXT3Y"
         },
         {
