@@ -499,7 +499,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 56,
             title: "More than a Married Couple, but Not Lovers",
             image: "image/More than a Married Couple, but Not Lovers.jpg",
-            status: "planned",
+            status: "watching",
             rating: 0,
             notes: "[56] Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka.",
             videoId: "l5D8xknhQNA"
@@ -508,7 +508,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 57,
      title: "The Dreaming Boy is a Realist",
      image: "image/The Dreaming Boy is a Realist.jpg",
-     status: "planned",
+     status: "watching",
      rating: 0,
      notes: "[57] Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa.",
      videoId: "sUJ9hUhViBo"
@@ -517,7 +517,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 58,
      title: "Horimiya",
      image: "image/Horimiya.jpg",
-     status: "planned",
+     status: "watching",
      rating: 0,
      notes: "[58] On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds.",
      videoId: "42LiC4xY8YE"
@@ -575,6 +575,15 @@ document.addEventListener('DOMContentLoaded', function() {
      rating: 0,
      notes: "[64] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
      videoId: "Tpl6mSXo8po"
+},
+         {
+     id: 64,
+     title: "Horimiya: The Missing Pieces",
+     image: "image/Horimiya The Missing Pieces.jpg",
+     status: "watching",
+     rating: 0,
+     notes: "[64] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
+     videoId: "MU-Vk5R0vVY"
 },
         
         
