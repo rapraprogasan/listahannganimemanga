@@ -266,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 30,
         title: "Remake Our Life!",
         image: "image/Remake Our Life!.jpg",
-        status: "watching",
+        status: "completed",
         rating: 3.5,
         notes:" Failed game developer Kyouya wakes up 10 years in the past, ditches business school for art college, and teams up with future legends (including his former boss) to rewrite their destinies. Together, they chase creative dreams—but can he avoid past regrets when success demands more than just second chances?",
         videoId: "MSvTN_aQrCU"
@@ -399,17 +399,17 @@ document.addEventListener('DOMContentLoaded', function() {
           id: 45,
         title: "Wind Breaker Season 2",
         image: "image/Wind Breaker Season 2.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[45] Second season of Wind Breaker.",
+        status: "completed",
+        rating: 3.5,
+        notes:" Second season of Wind Breaker.",
         videoId: "qaR2_4tYhq8"
         },
          {
               id: 46,
         title: "The Brilliant Healer's New Life in the Shadows",
         image: "image/The Brilliant Healer's New Life in the Shadows.jpg",
-        status: "watching",
-        rating: 0,
+        status: "completed",
+        rating: 4,
         notes:"[46] After being discarded by his ungrateful adventurer party, slum-born healer Zenos opens an underground clinic—only to become a legend in the city’s darkest corners. Now, with nobles and outlaws alike seeking his skills, he must choose: heal the world that broke him, or use his power to break it back.",
         videoId: "3E5gmPGu238"
         },
@@ -417,7 +417,7 @@ document.addEventListener('DOMContentLoaded', function() {
               id: 47,
         title: "The Beginning After the End",
         image: "image/The Beginning After the End.jpg",
-        status: "watching",
+        status: "completed",
         rating: 2,
         notes:" The invincible but lonely King Grey is reborn as Arthur, a powerless child in a magical world. For the first time, he experiences love and family—until bandits shatter his newfound happiness, forcing him to reclaim his strength to protect what matters most.",
         videoId: "xlRCC8SXT3Y"
