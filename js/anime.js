@@ -499,8 +499,8 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 56,
             title: "More than a Married Couple, but Not Lovers",
             image: "image/More than a Married Couple, but Not Lovers.jpg",
-            status: "watching",
-            rating: 0,
+            status: "completed",
+            rating: 4,
             notes: "[56] Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka.",
             videoId: "l5D8xknhQNA"
         },   
