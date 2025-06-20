@@ -390,9 +390,9 @@ document.addEventListener('DOMContentLoaded', function() {
            id: 44,
         title: "Can a Boy-Girl Friendship Survive",
         image: "image/Can a Boy-Girl Friendship Survive.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[44] Childhood friends Himari and Yuu—still inseparable in high school—jokingly promise to marry if neither finds love. But when playful words spark real tension, their (just friends) dynamic teeters on the edge of something scarier (and sweeter).",
+        status: "completed",
+        rating: 4,
+        notes:" Childhood friends Himari and Yuu—still inseparable in high school—jokingly promise to marry if neither finds love. But when playful words spark real tension, their (just friends) dynamic teeters on the edge of something scarier (and sweeter).",
         videoId: "fZH5jDK5qV8"
         },
          {
