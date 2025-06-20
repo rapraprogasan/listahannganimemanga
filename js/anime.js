@@ -585,6 +585,15 @@ document.addEventListener('DOMContentLoaded', function() {
      notes: "[65] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
      videoId: "b7ZYm_LEJ6Y"
 },
+        {
+     id: 66,
+     title: "Please Put Them On, Takamine-san",
+     image: "image/Please Put Them On, Takamine-san.jpg",
+     status: "completed",
+     rating: 3.5,
+     notes: "Takane Takamine is great at everything she does, and her magnetic personality makes her the envy of everyone.",
+     videoId: "b7ZYm_LEJ6Y"
+},
 
         
         
