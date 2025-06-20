@@ -508,9 +508,9 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 57,
      title: "The Dreaming Boy is a Realist",
      image: "image/The Dreaming Boy is a Realist.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[57] Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa.",
+     status: "completed",
+     rating: 4,
+     notes: " Wataru Sajou is infamous in his school for persistently seeking the attention of his crush, Aika Natsukawa.",
      videoId: "sUJ9hUhViBo"
 },
         {
