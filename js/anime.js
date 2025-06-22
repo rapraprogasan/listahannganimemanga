@@ -105,9 +105,9 @@ document.addEventListener('DOMContentLoaded', function() {
              id: 12,
         title: "Shoshimin How to Become Ordinary Season 2",
         image: "image/Shoshimin How to Become Ordinary Season 2.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[12] After parting ways, Kobato and Osanai try normal lives—until an arson case pulls them back into danger and unresolved feelings. Can they stay ordinary when chaos calls?",
+        status: "completed",
+        rating: 4,
+        notes:" After parting ways, Kobato and Osanai try normal lives—until an arson case pulls them back into danger and unresolved feelings. Can they stay ordinary when chaos calls?",
         videoId: "kgTAUP11ko0"
         },
          {
@@ -363,9 +363,9 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 41,
         title: "From Old Country Bumpkin to Master Swordsman",
         image: "image/From Old Country Bumpkin to Master Swordsman.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[41] Retired swordsman Beryl, content with his quiet rural life, is suddenly thrust into the spotlight when his legendary former students demand his guidance for the royal knights. Now, this (humble old man) must navigate political intrigue, overeager pupils, and his own buried past—all while insisting he’s not the master they remember.",
+        status: "completed",
+        rating: 4,
+        notes:" Retired swordsman Beryl, content with his quiet rural life, is suddenly thrust into the spotlight when his legendary former students demand his guidance for the royal knights. Now, this (humble old man) must navigate political intrigue, overeager pupils, and his own buried past—all while insisting he’s not the master they remember.",
         videoId: "1ukoLVyCfW8"
         },
          {
@@ -381,9 +381,9 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 43,
         title: "Fire Force Season 3",
         image: "image/Fire Force Season 3.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[43] Third season of Enen no Shouboutai.",
+        status: "completed",
+        rating: 3.5,
+        notes:" Third season of Enen no Shouboutai.",
         videoId: "nz-VCl7yUAw"
         },
          {
@@ -517,9 +517,9 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 58,
      title: "Horimiya",
      image: "image/Horimiya.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[58] On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds.",
+     status: "completed",
+     rating: 4.5,
+     notes: " On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds.",
      videoId: "42LiC4xY8YE"
 },
         {
