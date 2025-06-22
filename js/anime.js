@@ -545,8 +545,8 @@ document.addEventListener('DOMContentLoaded', function() {
      title: "Tsukigakirei",
      image: "image/Tsukigakirei.jpg",
      status: "wahtcing",
-     rating: 0,
-     notes: "[61] With a new school year comes a new crowd of classmates, and for their final year of junior high, aspiring writer Kotarou Azumi and track team member Akane Mizuno end up in the same class.",
+     rating: 4,
+     notes: " With a new school year comes a new crowd of classmates, and for their final year of junior high, aspiring writer Kotarou Azumi and track team member Akane Mizuno end up in the same class.",
      videoId: "HoEFpyDHZzw"
 },
         {
