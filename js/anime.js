@@ -526,7 +526,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 59,
      title: "The Ice Guy and His Cool Female Colleague",
      image: "image/The Ice Guy and His Cool Female Colleague.jpg",
-     status: "planned",
+     status: "watching",
      rating: 0,
      notes: "[59] Kind-hearted Himuro-kun is unfortunate: when in deep concentration, stressed, or flustered, he involuntarily creates blizzard conditions for himself and anyone in his vicinity.",
      videoId: "g9zwEj1klq8"
@@ -535,7 +535,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 60,
      title: "My Love Story with Yamada-kun at Lv999",
      image: "image/My Love Story with Yamada-kun at Lv999.jpg",
-     status: "planned",
+     status: "wacthing",
      rating: 0,
      notes: "[60] After her boyfriend breaks up with her for another girl, college student Akane Kinoshita wrestles with a broken heart and the memories he left behind.",
      videoId: "LpZI3j6Axlo"
