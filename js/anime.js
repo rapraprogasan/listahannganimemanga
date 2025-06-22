@@ -535,7 +535,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 60,
      title: "My Love Story with Yamada-kun at Lv999",
      image: "image/My Love Story with Yamada-kun at Lv999.jpg",
-     status: "wacthing",
+     status: "watching",
      rating: 0,
      notes: "[60] After her boyfriend breaks up with her for another girl, college student Akane Kinoshita wrestles with a broken heart and the memories he left behind.",
      videoId: "LpZI3j6Axlo"
