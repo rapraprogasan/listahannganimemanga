@@ -562,7 +562,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 63,
      title: "Fruits Basket 1st Season",
      image: "image/Fruits Basket 1st Season.jpg",
-     status: "planned",
+     status: "watching",
      rating: 0,
      notes: "[63] Tooru Honda has always been fascinated by the story of the Chinese zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone.",
      videoId: "g5MDFMukmUI"
