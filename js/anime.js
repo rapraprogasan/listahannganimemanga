@@ -194,9 +194,9 @@ document.addEventListener('DOMContentLoaded', function() {
              id: 22,
         title: "The Gorilla God's Go-To Girl",
         image: "image/The Gorilla God's Go-To Girl.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[22] Timid noble girl Sophia gains the ultra-rare (Gorilla God) blessing—making her absurdly strong but desperate to hide it. Thrust into the Royal Knights against her will, she struggles to maintain a peaceful facade while her monstrous power keeps stealing the spotlight.",
+        status: "completed",
+        rating: 4,
+        notes:" Timid noble girl Sophia gains the ultra-rare (Gorilla God) blessing—making her absurdly strong but desperate to hide it. Thrust into the Royal Knights against her will, she struggles to maintain a peaceful facade while her monstrous power keeps stealing the spotlight.",
         videoId: "kTrG6N72ZN4"
         },
          {
