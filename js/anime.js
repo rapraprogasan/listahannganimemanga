@@ -580,9 +580,9 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 65,
      title: "Horimiya The Missing Pieces",
      image: "image/Horimiya The Missing Pieces.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[65] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
+     status: "completed",
+     rating: 4.5,
+     notes: " In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
      videoId: "b7ZYm_LEJ6Y"
 },
         {
