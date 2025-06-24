@@ -571,7 +571,7 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 64,
      title: "In Another World With My Smartphone",
      image: "image/In Another World With My Smartphone.jpg",
-     status: "planned",
+     status: "watching",
      rating: 0,
      notes: "[64] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
      videoId: "Tpl6mSXo8po"
