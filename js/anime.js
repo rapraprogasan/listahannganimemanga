@@ -480,7 +480,7 @@ document.addEventListener('DOMContentLoaded', function() {
              id: 54,
         title: "Aharen-san wa Hakarenai",
         image: "image/Aharen-san wa Hakarenai.jpg",
-        status: "planned",
+        status: "watching",
         rating: 0,
         notes:"[54] A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
         videoId: "F7bGTibgcjM"
@@ -489,7 +489,7 @@ document.addEventListener('DOMContentLoaded', function() {
              id: 55,
         title: "Aharen-san wa Hakarenai Season 2",
         image: "image/Aharen-san wa Hakarenai Season 2.jpg",
-        status: "planned",
+        status: "watching",
         rating: 0,
         notes:"[55] Aharen-san wa Hakarenai Season 2 follows the second year of Reina Aharen and Raido's high school journey as they navigate a new semester and a new transfer student, Riku Tamanaha.",
         videoId: "5-nbw77_Bss"
