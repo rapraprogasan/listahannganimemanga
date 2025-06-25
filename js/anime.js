@@ -319,9 +319,9 @@ document.addEventListener('DOMContentLoaded', function() {
         { id: 36,
         title: "The Shiunji Family Children",
         image: "image/The Shiunji Family Children.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[36] The wealthy, dazzling Shiunji siblings seem perfect—until their father reveals a devastating secret on the youngest’s 15th birthday: they’re not blood-related. Now, eldest brother Arata must grapple with buried desires as forbidden love threatens to shatter their gilded family.",
+        status: "completed",
+        rating: 4.5,
+        notes:"The wealthy, dazzling Shiunji siblings seem perfect—until their father reveals a devastating secret on the youngest’s 15th birthday: they’re not blood-related. Now, eldest brother Arata must grapple with buried desires as forbidden love threatens to shatter their gilded family.",
         videoId: "4XVwQr0t_zU"
         },
         { id: 37,
