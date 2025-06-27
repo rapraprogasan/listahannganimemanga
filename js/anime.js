@@ -435,9 +435,9 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 49,
         title: "Mobile Suit Gundam: GQuuuuuuX",
         image: "image/Mobile Suit Gundam GQuuuuuuX.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[49] Space colony student Amate (Machu) gets swept into underground mecha battles piloting the GQuuuuuuX—until a rogue Gundam and its enigmatic pilot, Shuji, drag her into a conflict that will rewrite history.",
+        status: "completed",
+        rating: 4.2,
+        notes:" Space colony student Amate (Machu) gets swept into underground mecha battles piloting the GQuuuuuuX—until a rogue Gundam and its enigmatic pilot, Shuji, drag her into a conflict that will rewrite history.",
         videoId: "LnMIaFV4q6M"
         },
         {
