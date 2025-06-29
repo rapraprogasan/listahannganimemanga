@@ -611,7 +611,7 @@ document.addEventListener('DOMContentLoaded', function() {
      image: "image/The Angel Next Door Spoils Me Rotten.jpg",
      status: "watching",
      rating: 0,
-     notes: "Mahiru Shiina is worthy of her nickname "Angel": she is a divine beauty loved by all, and she excels in both academics and athletics.",
+     notes: "Mahiru Shiina is worthy of her nickname Angel: she is a divine beauty loved by all, and she excels in both academics and athletics.",
      videoId: "IUq59ARXtdg"
 },
            {
