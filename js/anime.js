@@ -606,21 +606,21 @@ document.addEventListener('DOMContentLoaded', function() {
               
 },
           {
-     id: 66,
+     id: 68,
      title: "The Angel Next Door Spoils Me Rotten",
      image: "image/The Angel Next Door Spoils Me Rotten.jpg",
      status: "watching",
      rating: 0,
-     notes: "Mahiru Shiina is worthy of her nickname Angel: she is a divine beauty loved by all, and she excels in both academics and athletics.",
+     notes: "[68] Mahiru Shiina is worthy of her nickname Angel: she is a divine beauty loved by all, and she excels in both academics and athletics.",
      videoId: "IUq59ARXtdg"
 },
            {
-     id: 66,
+     id: 69,
      title: "Private Tutor to the Duke's Daughter",
      image: "image/Private Tutor to the Duke's Daughter.jpg",
      status: "watching",
      rating: 0,
-     notes: "After failing the final exam for his dream job at the royal court, promising young sorcerer Allen wants nothing more than to retreat to a simple life in the countryside.",
+     notes: "[69] After failing the final exam for his dream job at the royal court, promising young sorcerer Allen wants nothing more than to retreat to a simple life in the countryside.",
      videoId: "kPbTNiL2PX8"
 },
         
