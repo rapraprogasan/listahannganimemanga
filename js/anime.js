@@ -757,7 +757,7 @@ document.addEventListener('DOMContentLoaded', function() {
      image: "image/Watari-kun's  Is about to Collapse.jpg",
      status: "planned",
      rating: 0,
-     notes: "[84] Two years ago, the death of Naoto Watari's parents left him as the sole caretaker for his younger sister Suzushiro "Suzu" Watari and forced him to move in with their aunt.",
+     notes: "[84] Two years ago, the death of Naoto Watari's parents left him as the sole caretaker for his younger sister Suzushiro Suzu Watari and forced him to move in with their aunt.",
      videoId: "kJiYL6pviEs"
 },
                                     {
@@ -780,7 +780,7 @@ document.addEventListener('DOMContentLoaded', function() {
 },
         {
      id: 87,
-     title: "Onmyo Kaiten Re:Birth Verse",
+     title: "Onmyo Kaiten Re Birth Verse",
      image: "image/Onmyo Kaiten Re Birth Verse.jpg",
      status: "planned",
      rating: 0,
@@ -798,7 +798,7 @@ document.addEventListener('DOMContentLoaded', function() {
 },
         {
      id: 89,
-     title: "Hell Teacher: Jigoku Sensei Nube",
+     title: "Hell Teacher Jigoku Sensei Nube",
      image: "image/Hell Teacher Jigoku Sensei Nube.jpg",
      status: "planned",
      rating: 0,
