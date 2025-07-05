@@ -690,7 +690,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             {
      id: 77,
      title: "Tying the Knot with an Amagami Sister",
-     image: "image/Tying the Knot with an Amagami Sister1.jpg",
+     image: "image/Tying the Knot with an Amagami Sister.jpg",
      status: "planned",
      rating: 0,
      notes: "[77] After witnessing his mother's death at a young age, Uryuu Kamihate grew up disillusioned with the gods, dismissing faith in them as utter nonsense.",
