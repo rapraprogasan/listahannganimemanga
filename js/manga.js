@@ -154,7 +154,98 @@ document.addEventListener('DOMContentLoaded', function() {
         notes:"[17] Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light. While on her way to replay it, she tragically died, reincarnating as the game's final boss and firstborn princess of Freesia.",
         videoId: "KdmxkRQshic"
      },
-       
+       //update 05/07/2025
+          {
+       id: 18,
+       title: "Hima-Ten!",
+       image: "image/Hima-Ten!.jpg",
+       status: "reading",
+       rating: 0,
+       notes: "[18] Himaten!; Hima-Ten!",
+       mangaLink: "https://mangafire.to/manga/hima-tenn.3pnx9"
+     },
+      {
+       id: 19,
+       title: "The Fragrant Flower Blooms With Dignity",
+       image: "image/The Fragrant Flower Blooms With Dignity.jpg",
+       status: "reading",
+       rating: 0,
+       notes: "[19] The Fragrant Flower Blooms With Dignity; Kaoru Hana wa Rin to Saku;",
+       mangaLink: "https://mangafire.to/manga/the-fragrant-flower-blooms-with-dignityy.zlw6m"
+     },
+    
+      {
+       id: 20,
+       title: "Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita.",
+       image: "image/Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita.jpg",
+       status: "dropped",
+       rating: 0,
+       notes: "[20] Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita.; I Started working a Housekeeping Job and Ended Up Being Liked by the Family of the Most Beautiful Girl in School.",
+       mangaLink: "https://mangafire.to/manga/kaji-daikou-no-arbeit-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiinirare-chaimashita.qzn4n"
+     },
+    
+      {
+       id: 21,
+       title: "Namaiki Asahi-chan wo Wakarasetai",
+       image: "image/Namaiki Asahi-chan wo Wakarasetai.jpg",
+       status: "planned",
+       rating: 0,
+       notes: "[21] Namaiki Asahi-chan wo Wakarasetai; I Wanna Set This Cocky Asahi-chan Straight",
+       mangaLink: "https://mangafire.to/manga/namaiki-asahi-chan-wo-wakarasetai.700zj"
+     },
+    
+      {
+       id: 22,
+       title: "Tying the Knot with an Amagami Sister",
+       image: "image/Tying the Knot with an Amagami Sister.jpg",
+       status: "planned",
+       rating: 0,
+       notes: "[22] Amagami-san Chi no Enmusubi; Tying the Knot with an Amagami Sister; Брачные узы с семьёй Амагами; Matchmaking at the Amagami Household; 甘神さんちの縁結び; 甘神家的連理枝",
+       mangaLink: "https://mangafire.to/manga/amagami-san-chi-no-enmusubii.1n2qm"
+     },
+    
+      {
+       id: 23,
+       title: "His Girlfriend",
+       image: "image/His Girlfriend.jpg",
+       status: "planned",
+       rating: 0,
+       notes: "[23] As April marks the commencement of my last year in high school, I find myself in a dicey situation as I have fallen for the stunning girlfriend of my ..",
+       mangaLink: "https://mangafire.to/manga/his-girlfriendd.l3lr3"
+     },
+    
+      {
+       id: 24,
+       title: "Miya-chan no Kyuuin Life!",
+       image: "image/Miya-chan no Kyuuin Life!.jpg",
+       status: "planned",
+       rating: 0,
+       notes: "[24] Sucking up all the boys' nectar.♥ Miya-chan, a member of the track and field club, has been in poor condition for the last few days due to some unknow...",
+       mangaLink: "https://mangafire.to/manga/miya-chan-no-kyuuin-lifee.w52j4"
+     },
+    
+      {
+       id: 25,
+       title: "A Reincarnation Romantic Comedy Of A Hero And A Witch",
+       image: "image/A Reincarnation Romantic Comedy Of A Hero And A Witch.jpg",
+       status: "planned",
+       rating: 0,
+       notes: "[25] A Reincarnation Romantic Comedy Of A Hero And A Witch; Eiyuu to Majo no Tensei Rabu Kome • 英雄と魔女の転生ラブコメ • A Reincarnation Romantic Comedy Of A Hero And A Witch",
+       mangaLink: "https://mangafire.to/manga/a-reincarnation-romantic-comedy-of-a-hero-and-a-witch.zxoxm"
+     },
+    
+      {
+       id: 26,
+       title: "Please Put Them On, Takamine-san!",
+       image: "image/Please Put Them On, Takamine-san!.jpg",
+       status: "planned",
+       rating: 0,
+       notes: "[26] Please Put These On, Takamine-san; Please Put Them On, Takamine-san!; Haite Kudasai, Takamine-san; ",
+       mangaLink: "https://mangafire.to/manga/please-put-these-on-takamine-sann.6lo47"
+     },
+    
+    
+    
 
     ];
 
