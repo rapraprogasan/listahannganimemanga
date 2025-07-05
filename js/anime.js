@@ -221,9 +221,9 @@ document.addEventListener('DOMContentLoaded', function() {
            id: 25,
         title: "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
         image: "image/The Too-Perfect Saint Tossed Aside by My Fiancé and Sold to Another Kingdom.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[25] Arrogant saint Philia—so powerful she’s unbearable—gets dumped and sold to a rival kingdom. But when her new life defies all expectations, she must confront her own flaws to rewrite her story.",
+        status: "completed",
+        rating: 4,
+        notes:" Arrogant saint Philia—so powerful she’s unbearable—gets dumped and sold to a rival kingdom. But when her new life defies all expectations, she must confront her own flaws to rewrite her story.",
         videoId: "bVr2-cbGhM0"
         },
          {
@@ -293,9 +293,9 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 33,
         title: "Lazarus",
         image: "image/Lazarus.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[33] In 2052, the miracle drug Hapuna has eradicated suffering—until its creator resurfaces to reveal it’s actually a slow-acting poison dooming humanity. Now, the elite Lazarus squad must hunt him down and find an antidote before the clock runs out.",
+        status: "completed",
+        rating: 3.5,
+        notes:" In 2052, the miracle drug Hapuna has eradicated suffering—until its creator resurfaces to reveal it’s actually a slow-acting poison dooming humanity. Now, the elite Lazarus squad must hunt him down and find an antidote before the clock runs out.",
         videoId: "Nk5n35aeYdA"
         },
         {
@@ -345,18 +345,18 @@ document.addEventListener('DOMContentLoaded', function() {
            id: 39,
         title: "Uma Musume: Cinderella Gray",
         image: "image/Uma Musume Cinderella Gray.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[39] A spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl.",
+        status: "completed",
+        rating: 4.5,
+        notes:" A spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl.",
         videoId: "Gw8j8-m1gVk"
         },
          {
              id: 40,
         title: "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
         image: "image/I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[40] After quitting his toxic A-rank party, red mage Yuke joins an all-female adventurer group—his former students! As they crush dungeons together, his true power (long suppressed by ridicule) finally shines, proving he was never the weakling they thought.",
+        status: "completed",
+        rating: 4,
+        notes:" After quitting his toxic A-rank party, red mage Yuke joins an all-female adventurer group—his former students! As they crush dungeons together, his true power (long suppressed by ridicule) finally shines, proving he was never the weakling they thought.",
         videoId: "LvzfKjNjJeg"
         },
          {
@@ -372,9 +372,9 @@ document.addEventListener('DOMContentLoaded', function() {
              id: 42,
         title: "Teogonia",
         image: "image/Teogonia.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[42] After a near-fatal injury, borderlands warrior Kai awakens memories of a past life—and realizes his world operates on brutal, unfair rules. Now armed with ancient knowledge, he defies fate to rise from expendable soldier to a power that could shatter the very gods.",
+        status: "completed",
+        rating: 4,
+        notes:" After a near-fatal injury, borderlands warrior Kai awakens memories of a past life—and realizes his world operates on brutal, unfair rules. Now armed with ancient knowledge, he defies fate to rise from expendable soldier to a power that could shatter the very gods.",
         videoId: "_qzw-m-nR3A"
         },
          {
@@ -444,9 +444,9 @@ document.addEventListener('DOMContentLoaded', function() {
            id: 50,
         title: "The Apothecary Diaries Season 2",
         image: "image/The Apothecary Diaries Season 2.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[50] Apothecary-detective Maomao returns to the imperial court, balancing her duties for the consorts and her tangled dynamic with Jinshi—until a suspicious merchant caravan sparks fresh intrigue. With poison, politics, and hidden agendas at play, she must outwit threats inside and outside the palace walls.",
+        status: "completed",
+        rating: 4.5,
+        notes:" Apothecary-detective Maomao returns to the imperial court, balancing her duties for the consorts and her tangled dynamic with Jinshi—until a suspicious merchant caravan sparks fresh intrigue. With poison, politics, and hidden agendas at play, she must outwit threats inside and outside the palace walls.",
         videoId: "hkflaNu6yAQ"
         },
         {
@@ -480,9 +480,9 @@ document.addEventListener('DOMContentLoaded', function() {
              id: 54,
         title: "Aharen-san wa Hakarenai",
         image: "image/Aharen-san wa Hakarenai.jpg",
-        status: "watching",
-        rating: 0,
-        notes:"[54] A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
+        status: "completed",
+        rating: 4.5,
+        notes:" A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class. A quiet high schooler who doesn't really get the concept of personal space becomes smitten with the boy who sits next to her in class.",
         videoId: "F7bGTibgcjM"
         },
         {
@@ -526,18 +526,18 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 59,
      title: "The Ice Guy and His Cool Female Colleague",
      image: "image/The Ice Guy and His Cool Female Colleague.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[59] Kind-hearted Himuro-kun is unfortunate: when in deep concentration, stressed, or flustered, he involuntarily creates blizzard conditions for himself and anyone in his vicinity.",
+     status: "completed",
+     rating: 4,
+     notes: " Kind-hearted Himuro-kun is unfortunate: when in deep concentration, stressed, or flustered, he involuntarily creates blizzard conditions for himself and anyone in his vicinity.",
      videoId: "g9zwEj1klq8"
 },
         {
      id: 60,
      title: "My Love Story with Yamada-kun at Lv999",
      image: "image/My Love Story with Yamada-kun at Lv999.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[60] After her boyfriend breaks up with her for another girl, college student Akane Kinoshita wrestles with a broken heart and the memories he left behind.",
+     status: "completed",
+     rating: 4,
+     notes: " After her boyfriend breaks up with her for another girl, college student Akane Kinoshita wrestles with a broken heart and the memories he left behind.",
      videoId: "LpZI3j6Axlo"
 },
         {
@@ -562,18 +562,18 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 63,
      title: "Fruits Basket 1st Season",
      image: "image/Fruits Basket 1st Season.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[63] Tooru Honda has always been fascinated by the story of the Chinese zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone.",
+     status: "completed",
+     rating: 4,
+     notes: " Tooru Honda has always been fascinated by the story of the Chinese zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone.",
      videoId: "g5MDFMukmUI"
 },
         {
      id: 64,
      title: "In Another World With My Smartphone",
      image: "image/In Another World With My Smartphone.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[64] In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
+     status: "completed",
+     rating: 4,
+     notes: " In a thoughtless blunder, God accidentally strikes down Touya Mochizuki with a stray bolt of lightning! As an apology, God offers him one wish and the chance to live again in a magical fantasy world. ",
      videoId: "Tpl6mSXo8po"
 },
             {
@@ -609,9 +609,9 @@ document.addEventListener('DOMContentLoaded', function() {
      id: 68,
      title: "The Angel Next Door Spoils Me Rotten",
      image: "image/The Angel Next Door Spoils Me Rotten.jpg",
-     status: "watching",
-     rating: 0,
-     notes: "[68] Mahiru Shiina is worthy of her nickname Angel: she is a divine beauty loved by all, and she excels in both academics and athletics.",
+     status: "completed",
+     rating: 4,
+     notes: " Mahiru Shiina is worthy of her nickname Angel: she is a divine beauty loved by all, and she excels in both academics and athletics.",
      videoId: "IUq59ARXtdg"
 },
            {
@@ -623,6 +623,246 @@ document.addEventListener('DOMContentLoaded', function() {
      notes: "[69] After failing the final exam for his dream job at the royal court, promising young sorcerer Allen wants nothing more than to retreat to a simple life in the countryside.",
      videoId: "kPbTNiL2PX8"
 },
+        //update 05/07/2025
+              {
+     id: 70,
+     title: "In Another World With My Smartphone 2",
+     image: "image/In Another World With My Smartphone 2.jpg",
+     status: "watching",
+     rating: 0,
+     notes: "[70] Touya Mochizuki grows accustomed to his new life in another world. Armed with his trusty smartphone, the teenager accepts small quests at his leisure while spending time with his new fiancées.",
+     videoId: "6AkocZNKceE"
+},
+                  {
+     id: 71,
+     title: "Our Last Crusade or the Rise of a New World",
+     image: "image/Our Last Crusade or the Rise of a New World.jpg",
+     status: "watching",
+     rating: 0,
+     notes: "[71] A force known as Astral power permeates throughout the world, wielded by astral mages.",
+     videoId: "8nAMu3xE2_0"
+},
+                      {
+     id: 72,
+     title: "Seiren",
+     image: "image/Seiren.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[72] For high school students like Shouichi Kamita, university entrance exams and the future are common concerns.",
+     videoId: "o9SwzMgwRns"
+},
+                    {
+     id: 73,
+     title: "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside",
+     image: "image/Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[73] Far away from the reaches of demons and war, near the borderland of Zoltan, D-Rank adventurer Red lives a normal existence.",
+     videoId: "Q-WDh396OEg"
+},
+                    {
+     id: 74,
+     title: "I Have a Crush at Work",
+     image: "image/I Have a Crush at Work.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[74] Coworkers Yui Mitsuya and Masugu Tateishi are the last people anyone would expect to get along—especially with their constant office quarrels.",
+     videoId: "OWEzSDduLps"
+},
+                    {
+     id: 75,
+     title: "The Girl I Like Forgot Her Glasses",
+     image: "image/The Girl I Like Forgot Her Glasses.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[75] Kaede Komura is in love. After being seated next to the airheaded Ai Mie for the past three days, Komura cannot help but be attracted to his bespectacled classmate.",
+     videoId: "qrq7sPJYAT4"
+},
+                    {
+     id: 76,
+     title: "The Most Heretical Last Boss Queen: From Villainess to Savior",
+     image: "image/The Most Heretical Last Boss Queen From Villainess to Savior.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[76] Eight-year-old Pride Royal Ivy suddenly recalls her former life as a fan of the otome game Our Ray of Light.",
+     videoId: "KdmxkRQshic"
+},
+                            {
+     id: 77,
+     title: "Tying the Knot with an Amagami Sister",
+     image: "image/Tying the Knot with an Amagami Sister1.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[77] After witnessing his mother's death at a young age, Uryuu Kamihate grew up disillusioned with the gods, dismissing faith in them as utter nonsense.",
+     videoId: "YbLOVipUx6M"
+},
+
+                            {
+     id: 78,
+     title: "Tamako Market",
+     image: "image/Tamako Market.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[78] Inside the Usagiyama Shopping District lies an eccentric but close-knit community of business owners.",
+     videoId: "J3FKBptrP10"
+},
+                           {
+     id: 79,
+     title: "Tamako Love Story",
+     image: "image/Tamako Love Story.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[78] As the seasons pass by, the end of Mochizou Ooji's third and final school year quickly approaches.",
+     videoId: "B8JlGOXjZ28"
+},
+                                   {
+     id: 80,
+     title: "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside Season 2",
+     image: "image/Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside Season 2.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[80] Finally free of her Blessing's impulses, former Hero Ruti has settled into her idyllic slow life with assassin housemate Tisse in the border town of Zoltan.",
+     videoId: "cF7w-xJIARM"
+},
+                                    {
+     id: 81,
+     title: "Call of the Night",
+     image: "image/Call of the Night.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[81] Inside the Usagiyama Shopping District lies an eccentric but close-knit community of business owners.",
+     videoId: "a4bSbmqwhso"
+},
+                                    {
+     id: 82,
+     title: "Our Last Crusade or the Rise of a New World Season 2",
+     image: "image/Our Last Crusade or the Rise of a New World Season 2.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[82] Inside the Usagiyama Shopping District lies an eccentric but close-knit community of business owners.",
+     videoId: "IhIo_ziBH7M"
+},
+                                    {
+     id: 83,
+     title: "Call of the Night Season 2",
+     image: "image/Call of the Night Season 2.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[83] Second season of Yofukashi no Uta.",
+     videoId: "m3yAIWZQ6gM"
+},
+                                    {
+     id: 84,
+     title: "Watari-kun's ****** Is about to Collapse",
+     image: "image/Watari-kun's  Is about to Collapse.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[84] Two years ago, the death of Naoto Watari's parents left him as the sole caretaker for his younger sister Suzushiro "Suzu" Watari and forced him to move in with their aunt.",
+     videoId: "kJiYL6pviEs"
+},
+                                    {
+     id: 85,
+     title: "ecrets of the Silent Witch",
+     image: "image/ecrets of the Silent Witch.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[85] Monica Everett, the Silent Witch, is the only mage in the world who can use unchanted magecraft, a true hero who singlehandedly defeated a legendary black dragon.",
+     videoId: "0OBF29HoV4A"
+},
+        {
+     id: 86,
+     title: "The Water Magician",
+     image: "image/The Water Magician.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[86] Ryou is delighted to be reincarnated into the fantastical world of Phi, where he thinks he'll get to live a quiet life learning to use his newfound water magic.",
+     videoId: "4E6zDMwB1rw"
+},
+        {
+     id: 87,
+     title: "Onmyo Kaiten Re:Birth Verse",
+     image: "image/Onmyo Kaiten Re Birth Verse.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[87] Takeru Narihira is a lone wolf delinquent who spends his days getting into fights, avoiding friendships, and being captivated by a mysterious girl named Tsukimiya—someone he's only ever seen in his dreams.",
+     videoId: "VHoDvjIMhR8"
+},
+        {
+     id: 88,
+     title: "Welcome to the Outcast's Restaurant!",
+     image: "image/Welcome to the Outcast's Restaurant!.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[88] Backstabbed by those he considered friends, Dennis has been exiled from one of the strongest guilds around: the Silver Wings Battalion.",
+     videoId: "1NHaD4UdPV4"
+},
+        {
+     id: 89,
+     title: "Hell Teacher: Jigoku Sensei Nube",
+     image: "image/Hell Teacher Jigoku Sensei Nube.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[89] A number of inexplicable phenomena have been plaguing the town of Domori. In order to protect the town's children, a new homeroom teacher known as Nube arrives.",
+     videoId: "IIXbiYuXpbw"
+},
+        {
+     id: 90,
+     title: "Dan Da Dan Season 2",
+     image: "image/Dan Da Dan Season 2.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[90] Second season of Dandadan.",
+     videoId: "ngi8x4gVypA"
+},
+        {
+     id: 91,
+     title: "New Saga",
+     image: "image/New Saga.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[91] After a fierce battle, Magic swordsman Kyle finally killed the Demon Lord after being seriously injured in the battle.",
+     videoId: "sCWxFiraLiA"
+},
+        {
+     id: 92,
+     title: "Clevatess",
+     image: "image/Clevatess.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[92] Alicia, who had dreamed of becoming a hero since childhood, is chosen by the king as one of the thirteen heroes.",
+     videoId: "sX4o5OODMqQ"
+},
+        {
+     id: 93,
+     title: "Rent-a-Girlfriend Season 4",
+     image: "image/Rent-a-Girlfriend Season 4.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[93] Fourth season of Kanojo, Okarishimasu.",
+     videoId: "VC226h0ivYg"
+},
+        {
+     id: 94,
+     title: "Go! Go! Loser Ranger!",
+     image: "image/Go! Go! Loser Ranger!.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[94] For the past 13 years, the Nefarious Monster Army have appeared beneath their floating fortress every Sunday to advance their goal of conquering Earth.",
+     videoId: "WA9Q4MBxD3s"
+},
+        {
+     id: 6,
+     title: "Go! Go! Loser Ranger! Season 2",
+     image: "image/Go! Go! Loser Ranger! Season 2.jpg",
+     status: "planned",
+     rating: 0,
+     notes: "[95] Second season of Sentai Daishikkaku.",
+     videoId: "LBOJnYuMBgM"
+},
+        
+        
+        
+        
         
         
     ];
