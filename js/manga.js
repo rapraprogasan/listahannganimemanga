@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
        id: 20,
        title: "Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita.",
        image: "image/Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita..jpg",
-       status: "planned",
+       status: "reading",
        rating: 0,
        notes: "[20] Kaji Daikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiinirare Chaimashita.; I Started working a Housekeeping Job and Ended Up Being Liked by the Family of the Most Beautiful Girl in School.",
        mangaLink: "https://mangafire.to/manga/kaji-daikou-no-arbeit-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiinirare-chaimashita.qzn4n"
